@@ -7,4 +7,14 @@ Lonero utilizes Cryptonote’s protocols and our HashBolt masternode consensus, 
   - Our decentralized technology allows both staking and mining in order to keep the technology ahead of the market.
   - Lonero outperforms leading privacy coins by integrating HashBolt, higher block size, segregated witnesses, as well as a lightning network.
   - Prioritizes safe and secure transactions by utilizing Cryptonote’s ring signature protocol and our custom multi-layer encryption.
+### Seed Node
+```
+host: 142.93.171.115
+port: 34414
+```
+| Configs | Repo |
+| ------ | ------ |
+| UMOMP | https://github.com/Lonero-Team/UNOMP-LNR-Config |
+| P2Pool | https://github.com/Lonero-Team/CN-P2Pool-Hashing-Script |
+| Stratum | https://github.com/Lonero-Team/Stratum-Config |
 ## [Lonero's Wiki](https://github.com/Lonero-Team/Lonero-Community/wiki)
