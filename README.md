@@ -1,5 +1,5 @@
 # Lonero Community
-Informational landing page in markdown to go along with the https://lonero.org website
+Informational landing page in markdown to go along with the [website](https://lonero.org)
 ### About Us
 Lonero utilizes Cryptonote’s protocols and our HashBolt masternode consensus, taking security, transaction speeds, and mining profits to a new global standard.
 ### What is Lonero?
