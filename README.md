@@ -12,5 +12,5 @@ Lonero utilizes Cryptonote’s protocols and our HashBolt masternode consensus, 
 host: 142.93.171.115
 port: 34414
 ```
-##### Configs: [UMOMP](https://github.com/Lonero-Team/UNOMP-LNR-Config)| [P2Pool](https://github.com/Lonero-Team/CN-P2Pool-Hashing-Script) | [Stratum](https://github.com/Lonero-Team/Stratum-Config)
+##### Configs: [UMOMP](https://github.com/Lonero-Team/UNOMP-LNR-Config)| [P2Pool](https://github.com/Lonero-Team/CN-P2Pool-Hashing-Script) | [Stratum](https://github.com/Lonero-Team/Stratum-Config) | [Coinium](https://github.com/Lonero-Team/Coinium-Configs)
 ## [Lonero's Wiki](https://github.com/Lonero-Team/Lonero-Community/wiki)
