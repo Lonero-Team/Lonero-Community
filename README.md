@@ -1,7 +1,7 @@
 # Lonero Community
 Informational landing page in markdown to go along with the [website](https://lonero.org)
 ### About Us
-Lonero utilizes Cryptonote’s protocols and our HashBolt masternode consensus, taking security, transaction speeds, and mining profits to a new global standard.
+Lonero utilizes Cryptonote’s [protocols](https://github.com/Lonero-Team/) and our HashBolt masternode consensus, taking security, transaction speeds, and mining profits to a new global standard.
 ### What is Lonero?
   - Utilizes our HashBolt masternode consensus that allows for mining on ASIC and Non-ASIC systems.
   - Our decentralized technology allows both staking and mining in order to keep the technology ahead of the market.
