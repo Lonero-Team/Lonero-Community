@@ -1,4 +1,4 @@
-# Lonero Community
+# [Lonero Community](https://lonero-team.github.io/Lonero-Community/)
 Informational landing page in markdown to go along with the [website](https://lonero.org)
 ### About Us
 Lonero utilizes Cryptonote’s protocols and our HashBolt masternode consensus, taking security, transaction speeds, and mining profits to a new global [standard](https://github.com/Lonero-Team/).
