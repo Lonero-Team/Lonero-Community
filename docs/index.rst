@@ -114,19 +114,10 @@ components:
 
 |N|Solid04| |N|Solid05| |N|Solid06|
 
-Not only can you use ChainBoard for the project ideas I demonstrated,
-but there are ways it can be utilized for much more. For example, one
-can create a smart plug or smart home system with ChainBoard. One can be
-able to have ChainBoard act as the mainframe for a small mesh network
-with multiple low cost bluetooth devices. One can create their own
-LoRaWAN transmission client. Somebody can even make a microcontroller
-controlled generator type system or utilize ChainBoard for an
-interconnected security system.
+Not only can you use ChainBoard for the project ideas I demonstrated, but there are ways it can be utilized for much more. For example, one can create a smart plug or smart home system with ChainBoard. One can be able to have ChainBoard act as the mainframe for a small mesh network with multiple low cost bluetooth devices. One can create their own LoRaWAN transmission client. Somebody can even make a microcontroller controlled generator type system or utilize ChainBoard for an interconnected security system.
 
-Given the capabilities of the components, and its cost, we didn't want
-ChainBoard to be minimal in its applicable use cases. We wanted to
-create something that people may start building untop of. We wanted
-components that can be utilized for decentralization
+
+Given the capabilities of the components, and its cost, we didn't want ChainBoard to be minimal in its applicable use cases. We wanted to create something that people may start building untop of. We wanted components that can be utilized for decentralization or P2P style connectivity. This may seem like just a extravagant project board, but we envision something much bigger. However, in order to make history, we feel we need to target the hobbyists first. 
 
 .. |N|Solid01| image:: https://ksr-ugc.imgix.net/assets/026/631/309/62a628ff7f5e6a5cf3869856cbb2e88b_original.png?ixlib=rb-2.1.0&w=680&fit=max&v=1569595065&auto=format&gif-q=50&lossless=true&s=e795e51a4564bea279e3035308f9eaab
 .. |N|Solid02| image:: https://ksr-ugc.imgix.net/assets/026/631/361/2c751470eea058c421ec83fd7a40084d_original.png?ixlib=rb-2.1.0&w=680&fit=max&v=1569595387&auto=format&gif-q=50&lossless=true&s=14ae2bffa95ed09c8f2db2df64ffccb1
