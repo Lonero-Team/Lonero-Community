@@ -55,3 +55,8 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
 .. _MiningCore: https://github.com/Lonero-Team/MiningCore-Config
 .. _Poolserver: https://github.com/Lonero-Team/Poolserver-File
 .. _Lonero's Wiki: https://github.com/Lonero-Team/Lonero-Community/wiki
+
+`Decentralized Internet Docs`_
+===================
+
+Under Construction
