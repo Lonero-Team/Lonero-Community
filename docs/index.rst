@@ -56,7 +56,19 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
 .. _Poolserver: https://github.com/Lonero-Team/Poolserver-File
 .. _Lonero's Wiki: https://github.com/Lonero-Team/Lonero-Community/wiki
 
+`Lonero Operating System`_
+===================
+|N|Solid|
+
+.. |N|Solid| image:: https://lh6.googleusercontent.com/V9jJkSOwzUdI-bWNl_X-qmhZ1xeC1W-FiXaXYCFPCXMgXfRn7joHM4h2F2OkAq1cXGvaJ_m4wUEiBi4q0S7ZmfbSIr1prfocudLmzTQzOXy2_kfo-g=w773
+   :target: https://starkdrones.org/home/os
+
 `Decentralized Internet Docs`_
 ===================
 
-Under Construction
+Parts to go over
+----------------
+
+-  Tools and Protocols
+-  Distributed Computing
+-  Decentralized Web Model
