@@ -78,6 +78,17 @@ Parts to Go Over
 -  Distributed Computing
 -  Decentralized Web Model
 
+.. _chainboard--the-next-gen-wireless-dev-board:
+
+ChainBoard \| The Next Gen Wireless Dev Board
+=============================================
+
+|N|Solid|
+
+About
+~~~~~
+ChainBoard is the next big thing for hardware enthusiasts, tinkerers and makers wanting to go "decentralized"
+
 .. _Lonero Community: https://lonero-team.github.io/Lonero-Community/
 .. _website: https://lonero.org
 .. _standard: https://github.com/Lonero-Team/
@@ -97,3 +108,5 @@ Parts to Go Over
 
 .. |N|Solid| image:: https://i.imgur.com/k9NEH6E.png
    :target: https://www.starkdrones.org/home/os
+.. |N|Solid| image:: https://ph-files.imgix.net/2bd39fd4-abe8-42e7-b58a-138556fbe115
+
