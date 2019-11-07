@@ -1,6 +1,4 @@
-############################
-Decentralized Internet Docs
-############################
-.. _Getting Started:
-***********************
+`Decentralized Internet Docs`_
+===================
+
 Under Construction
