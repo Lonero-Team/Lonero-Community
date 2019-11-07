@@ -42,7 +42,7 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
 Lonero Operating System
 =======================
 
-|N|Solid|
+|N|Solid1|
 
 Lonero OS is based off of the Lubuntu OS, and has a few adding things
 such as:
@@ -106,7 +106,7 @@ ChainBoard is the next big thing for hardware enthusiasts, tinkerers and makers 
 .. _Poolserver: https://github.com/Lonero-Team/Poolserver-File
 .. _Lonero's Wiki: https://github.com/Lonero-Team/Lonero-Community/wiki
 
-.. |N|Solid| image:: https://i.imgur.com/k9NEH6E.png
+.. |N|Solid1| image:: https://i.imgur.com/k9NEH6E.png
    :target: https://www.starkdrones.org/home/os
 .. |N|Solid| image:: https://ph-files.imgix.net/2bd39fd4-abe8-42e7-b58a-138556fbe115
 
