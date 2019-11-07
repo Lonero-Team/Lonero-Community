@@ -1,4 +1,4 @@
-Lonero Community`_
+`Lonero Community Demo`_
 ===================
 
 Informational landing page in markdown to go along with the `website`_
@@ -39,7 +39,7 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
 `Lonero's Wiki`_
 ----------------
 
-.. _Lonero Community: https://lonero-team.github.io/Lonero-Community/
+.. _Lonero Community Demo: https://lonero-team.github.io/Lonero-Community/
 .. _website: https://lonero.org
 .. _standard: https://github.com/Lonero-Team/
 .. _NOMP: https://github.com/Lonero-Team/NOMP-Config
