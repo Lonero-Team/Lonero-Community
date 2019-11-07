@@ -74,7 +74,7 @@ Decentralized Internet Docs
 Parts to Go Over
 ~~~~~~~~~~~~~~~~
 
--  `Tools and Protocols`_
+-  Tools and Protocols
 -  Distributed Computing
 -  Decentralized Web Model
 
@@ -105,9 +105,7 @@ ChainBoard is the next big thing for hardware enthusiasts, tinkerers and makers 
 .. _MiningCore: https://github.com/Lonero-Team/MiningCore-Config
 .. _Poolserver: https://github.com/Lonero-Team/Poolserver-File
 .. _Lonero's Wiki: https://github.com/Lonero-Team/Lonero-Community/wiki
-.. _Tools and Protocols: https://github.com/Lonero-Team/Lonero-Community/blob/master/docs/test.rst
 
 .. |N|Solid1| image:: https://i.imgur.com/k9NEH6E.png
    :target: https://www.starkdrones.org/home/os
 .. |N|Solid| image:: https://ph-files.imgix.net/2bd39fd4-abe8-42e7-b58a-138556fbe115
-
