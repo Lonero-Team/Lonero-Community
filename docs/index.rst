@@ -95,5 +95,5 @@ Parts to Go Over
 .. _Poolserver: https://github.com/Lonero-Team/Poolserver-File
 .. _Lonero's Wiki: https://github.com/Lonero-Team/Lonero-Community/wiki
 
-.. |N|Solid| image:: https://lh6.googleusercontent.com/V9jJkSOwzUdI-bWNl_X-qmhZ1xeC1W-FiXaXYCFPCXMgXfRn7joHM4h2F2OkAq1cXGvaJ_m4wUEiBi4q0S7ZmfbSIr1prfocudLmzTQzOXy2_kfo-g=w773
-   :target: https://starkdrones.org/home/os
+.. |N|Solid| image:: https://i.imgur.com/k9NEH6E.png
+   :target: https://www.starkdrones.org/home/os
