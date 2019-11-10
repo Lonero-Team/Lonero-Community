@@ -71,7 +71,7 @@ Features
 Decentralized Internet Docs
 ===========================
 
-Important Components
+Critical Components
 ~~~~~~~~~~~~~~~~
 
 -  Tools and Protocols
