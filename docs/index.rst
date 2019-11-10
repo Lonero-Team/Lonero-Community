@@ -71,13 +71,12 @@ Features
 Decentralized Internet Docs
 ===========================
 
-Parts to Go Over
+Important Components
 ~~~~~~~~~~~~~~~~
 
 -  Tools and Protocols
 -  Distributed Computing
 -  Decentralized Web Model
-
 
 Hardware Cryptography
 ~~~~~~~~~~~~~~~~~~~~~~
