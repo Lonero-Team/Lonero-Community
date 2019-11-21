@@ -55,6 +55,16 @@ such as:
 This project is part of an aim to create an open, distributed,
 censorship resistant operating system, and this is the beta of that.
 
+LonScript
+~~~~~~~~~
+
+-  Utilizing ANTLR Parsing
+-  Allows for Multi-State Machinery
+-  Truly built for Scientific Computing 
+and so much more…. 
+
+|N|lonscript|
+
 Features
 ~~~~~~~~
 
@@ -155,3 +165,5 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 .. |N|Solid1| image:: https://i.imgur.com/k9NEH6E.png
    :target: https://www.starkdrones.org/home/os
 .. |N|Solid| image:: https://ph-files.imgix.net/2bd39fd4-abe8-42e7-b58a-138556fbe115
+.. |N|lonscript| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/lscript_chart.png
+   :target: https://www.starkdrones.org/home/lonscript
