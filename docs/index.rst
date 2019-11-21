@@ -84,7 +84,6 @@ Decentralized Internet Docs
 |npm| \| |Crates.io| \| |Discord|
 \| |Gitter| \| |Read the Docs|
 
-
 Critical Components
 ~~~~~~~~~~~~~~~~
 
@@ -98,6 +97,17 @@ Hardware Cryptography
 - Hardware Cryptography as a Service
 - Post Quantum Cryptographic Research
 - Enterprise Level Cryptography Networks
+
+Main Installation Methods
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Install via NPM: ``npm i decentralized-internet``
+
+Install via APM: ``apm install decentralized-internet``
+
+Install via YARN: ``yarn add decentralized-internet``
+
+Install via SNAP: ``sudo snap install decentralized-internet --edge``
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 
