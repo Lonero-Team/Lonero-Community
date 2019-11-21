@@ -1,3 +1,4 @@
+ |PoweredBy|
 `Lonero Community`_
 ===================
 
@@ -55,16 +56,6 @@ such as:
 This project is part of an aim to create an open, distributed,
 censorship resistant operating system, and this is the beta of that.
 
-LonScript
-~~~~~~~~~
-
--  Utilizing ANTLR Parsing
--  Allows for Multi-State Machinery
--  Truly built for Scientific Computing 
-and so much more…. 
-
-|N|lonscript|
-
 Features
 ~~~~~~~~
 
@@ -77,9 +68,22 @@ Features
 -  The same software modules used here is the same operating system for
    "ChainBoard" which is a hardware board used by startups such as Stark
    Drones Corporation
+   
+LonScript
+~~~~~~~~~
+
+-  Utilizing ANTLR Parsing
+-  Allows for Multi-State Machinery
+-  Truly built for Scientific Computing 
+and so much more…. 
+
+|N|lonscript|   
 
 Decentralized Internet Docs
 ===========================
+|npm| \| |Crates.io| \| |Discord|
+\| |Gitter| \| |Read the Docs|
+
 
 Critical Components
 ~~~~~~~~~~~~~~~~
@@ -167,3 +171,14 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 .. |N|Solid| image:: https://ph-files.imgix.net/2bd39fd4-abe8-42e7-b58a-138556fbe115
 .. |N|lonscript| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/lscript_chart.png
    :target: https://www.starkdrones.org/home/lonscript
+   
+.. |PoweredBy| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Add%20a%20heading(15).png
+   :target: https://www.starkdrones.org/home/os
+.. |npm| image:: https://img.shields.io/npm/dt/decentralized-internet?label=NPM%20Downloads
+.. |Crates.io| image:: https://img.shields.io/crates/d/decentralized-internet?label=crates.io%20Downloads
+.. |Discord| image:: https://img.shields.io/discord/639489591664967700
+   :target: https://discord.gg/buTafPc
+.. |Gitter| image:: https://img.shields.io/gitter/room/Decentralized-Internet/community
+   :target: https://gitter.im/Decentralized-Internet/community?source=orgpage
+.. |Read the Docs| image:: https://img.shields.io/readthedocs/lonero
+   :target: https://lonero.readthedocs.io/en/latest/
