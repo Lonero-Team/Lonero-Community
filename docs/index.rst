@@ -109,6 +109,15 @@ Install via YARN: ``yarn add decentralized-internet``
 
 Install via SNAP: ``sudo snap install decentralized-internet --edge``
 
+This project was created in order to support a new internet. One that is
+more open, free, and censorship-resistant in comparison to the old
+internet. An internet that eventually wouldn’t need to rely on telecom
+towers, an outdated grid, or all these other “old school” forms of tech.
+We believe P2P compatibility is an important part of the future of the
+net. Grid Computing also plays a role in having a better means of
+transferring information in a speedy, more cost-efficient and reliable
+manner.
+
 .. _chainboard--the-next-gen-wireless-dev-board:
 
 ChainBoard \| The Next Gen Wireless Dev Board
