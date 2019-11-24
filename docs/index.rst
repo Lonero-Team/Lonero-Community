@@ -111,6 +111,8 @@ Install via SNAP: ``sudo snap install decentralized-internet --edge``
 
 Arch Linux Installation Method
 ----------------------------------
+==================================
+
 ::
 
    git clone https://aur.archlinux.org/snapd.git
