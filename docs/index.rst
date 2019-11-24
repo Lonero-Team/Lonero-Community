@@ -109,9 +109,7 @@ Install via YARN: ``yarn add decentralized-internet``
 
 Install via SNAP: ``sudo snap install decentralized-internet --edge``
 
-Arch Linux Installation Method
-----------------------------------
-==================================
+Arch Linux Installation Method:
 
 ::
 
