@@ -34,6 +34,8 @@ Seed Node
 
 .. _configs-nomp--osmp--yaamp--umomp--p2pool--stratum--coinium--coinhive--cpuminer--multiminer--miningcore--poolserver:
 
+If seed node doesn't work, try one of the nodes in the `beta`_ config file
+
 Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \| `Coinium`_ \| `CoinHive`_ \| `CPUMiner`_ \| `MultiMiner`_ \| `MiningCore`_ \| `Poolserver`_
                                                                                                                                                                              
 
@@ -183,6 +185,7 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 
 
 .. _Lonero Community: https://lonero-team.github.io/Lonero-Community/
+.. _beta: https://github.com/Lonero-Team/Lonero-Beta
 .. _website: https://lonero.org
 .. _standard: https://github.com/Lonero-Team/
 .. _NOMP: https://github.com/Lonero-Team/NOMP-Config
