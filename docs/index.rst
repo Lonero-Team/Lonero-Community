@@ -134,6 +134,8 @@ net. Grid Computing also plays a role in having a better means of
 transferring information in a speedy, more cost-efficient and reliable
 manner.
 
+|N|OperaDownload|
+
 .. _chainboard--the-next-gen-wireless-dev-board:
 
 ChainBoard \| The Next Gen Wireless Dev Board
@@ -207,6 +209,8 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 .. |N|Solid| image:: https://ph-files.imgix.net/2bd39fd4-abe8-42e7-b58a-138556fbe115
 .. |N|lonscript| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/lscript_chart.png
    :target: https://www.starkdrones.org/home/lonscript
+.. |N|OperaDownload| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/opera(1).png
+   :target: android.oms.apps.bemobi.com/en_us/decentralized_internet.html
    
 .. |PoweredBy| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Add%20a%20heading(15).png
    :target: https://www.starkdrones.org/home/os
