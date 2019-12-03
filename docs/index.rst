@@ -210,7 +210,7 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 .. |N|lonscript| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/lscript_chart.png
    :target: https://www.starkdrones.org/home/lonscript
 .. |N|OperaDownload| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/opera(1).png
-   :target: android.oms.apps.bemobi.com/en_us/decentralized_internet.html
+   :target: http://android.oms.apps.bemobi.com/en_us/decentralized_internet.html
    
 .. |PoweredBy| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Add%20a%20heading(15).png
    :target: https://www.starkdrones.org/home/os
