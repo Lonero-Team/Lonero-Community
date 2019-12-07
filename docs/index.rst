@@ -71,6 +71,8 @@ Features
    "ChainBoard" which is a hardware board used by startups such as Stark
    Drones Corporation
    
+Install via Docker: ``docker pull gamer456148/lonero-os``
+
 LonScript
 ~~~~~~~~~
 
@@ -113,6 +115,8 @@ Ember Installation:  ``ember install decentralized-internet``
 
 Install via SNAP: ``sudo snap install decentralized-internet --edge``
 
+Docker Installation: ``docker pull gamer456148/decentralized-internet``
+
 Arch Linux Installation Method:
 
 ::
@@ -124,6 +128,13 @@ Arch Linux Installation Method:
    sudo ln -s /var/lib/snapd/snap /snap
    sudo snap install decentralized-internet --edge
 
+Install via Dart:
+Add to your pubspec.yaml file:
+::
+
+   dependencies:
+     decentralized_internet: ^3.4.1
+Run: ``pub get``
 
 This project was created in order to support a new internet. One that is
 more open, free, and censorship-resistant in comparison to the old
@@ -133,6 +144,8 @@ We believe P2P compatibility is an important part of the future of the
 net. Grid Computing also plays a role in having a better means of
 transferring information in a speedy, more cost-efficient and reliable
 manner.
+
+`GitHub App`_
 
 |N|ChromeStore| | |N|OperaDownload|
 
@@ -209,6 +222,7 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 .. |N|Solid| image:: https://ph-files.imgix.net/2bd39fd4-abe8-42e7-b58a-138556fbe115
 .. |N|lonscript| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/lscript_chart.png
    :target: https://www.starkdrones.org/home/lonscript
+.. _GitHub App: https://github.com/apps/decentralized-internet
 .. |N|ChromeStore| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/chromewebstore_badgewborder_v2.png
    :target: https://chrome.google.com/webstore/detail/decentralized-internet-sd/gdomaijaeldibcpllgjfimjgdjngojig   
 .. |N|OperaDownload| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/opera(1).png
