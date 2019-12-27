@@ -113,6 +113,8 @@ Install via APM: ``apm install decentralized-internet``
 
 Ember Installation:  ``ember install decentralized-internet``
 
+Install via VS Code: ``ext install Lonero.decentralized-internet``
+
 Install via SNAP: ``sudo snap install decentralized-internet --edge``
 
 Docker Installation: ``docker pull gamer456148/decentralized-internet``
