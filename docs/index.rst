@@ -198,6 +198,16 @@ This is a journal to publish your decentralized, parallel processing, distriubut
 
 `Paper 1`_ \| `Paper 2`_
 
+Journal Features
+~~~~~~~~~~~~~~~~~
+- Add a DOI to your paper
+- Quick turn around time for review
+- Increase impact factor when others cite your work
+- Integrate code, latex, or markdown for journal entries
+- Just went live and targeted towards decentralization and distributed computing
+
+Website: https://authorea.com/inst/20499
+
 .. |N|Solid01| image:: https://ksr-ugc.imgix.net/assets/026/631/309/62a628ff7f5e6a5cf3869856cbb2e88b_original.png?ixlib=rb-2.1.0&w=680&fit=max&v=1569595065&auto=format&gif-q=50&lossless=true&s=e795e51a4564bea279e3035308f9eaab
 .. |N|Solid02| image:: https://ksr-ugc.imgix.net/assets/026/631/361/2c751470eea058c421ec83fd7a40084d_original.png?ixlib=rb-2.1.0&w=680&fit=max&v=1569595387&auto=format&gif-q=50&lossless=true&s=14ae2bffa95ed09c8f2db2df64ffccb1
 .. |N|Solid03| image:: https://ksr-ugc.imgix.net/assets/026/654/935/b840a7493242995678a69d7bfc4c7296_original.png?ixlib=rb-2.1.0&w=680&fit=max&v=1569801659&auto=format&gif-q=50&lossless=true&s=2f52a369028ab6d6827b05c754dcd01f
