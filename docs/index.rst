@@ -153,6 +153,24 @@ manner.
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 
+Up-to-Date Related Academic Work
+=================================
+
+The Journal of Decentralized and Grid Computing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+This is a journal to publish your decentralized, parallel processing, distriubuted and grid computing papers in support of research that contributes to advancement of the field.
+
+`Paper 1`_ \| `Paper 2`_
+
+Journal Features
+- Add a DOI to your paper
+- Quick turn around time for review
+- Increase impact factor when others cite your work
+- Integrate code, latex, or markdown for journal entries
+- Just went live and targeted towards decentralization and distributed computing
+
+Website: https://authorea.com/inst/20499
+
 ChainBoard \| The Next Gen Wireless Dev Board
 =============================================
 
@@ -191,22 +209,6 @@ Not only can you use ChainBoard for the project ideas I demonstrated, but there 
 
 
 Given the capabilities of the components, and its cost, we didn't want ChainBoard to be minimal in its applicable use cases. We wanted to create something that people may start building untop of. We wanted components that can be utilized for decentralization or P2P style connectivity. This may seem like just a extravagant project board, but we envision something much bigger. However, in order to make history, we feel we need to target the hobbyists first.
-
-The Journal of Decentralized and Grid Computing
-================================================
-This is a journal to publish your decentralized, parallel processing, distriubuted and grid computing papers in support of research that contributes to advancement of the field.
-
-`Paper 1`_ \| `Paper 2`_
-
-Journal Features
-~~~~~~~~~~~~~~~~~
-- Add a DOI to your paper
-- Quick turn around time for review
-- Increase impact factor when others cite your work
-- Integrate code, latex, or markdown for journal entries
-- Just went live and targeted towards decentralization and distributed computing
-
-Website: https://authorea.com/inst/20499
 
 .. |N|Solid01| image:: https://ksr-ugc.imgix.net/assets/026/631/309/62a628ff7f5e6a5cf3869856cbb2e88b_original.png?ixlib=rb-2.1.0&w=680&fit=max&v=1569595065&auto=format&gif-q=50&lossless=true&s=e795e51a4564bea279e3035308f9eaab
 .. |N|Solid02| image:: https://ksr-ugc.imgix.net/assets/026/631/361/2c751470eea058c421ec83fd7a40084d_original.png?ixlib=rb-2.1.0&w=680&fit=max&v=1569595387&auto=format&gif-q=50&lossless=true&s=14ae2bffa95ed09c8f2db2df64ffccb1
