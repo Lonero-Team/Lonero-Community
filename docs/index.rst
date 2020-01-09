@@ -161,13 +161,15 @@ The Journal of Decentralized and Grid Computing
 This is a journal to publish your decentralized, parallel processing, distriubuted and grid computing papers in support of research that contributes to advancement of the field.
 
 `Paper 1`_ \| `Paper 2`_
-
+ 
 Journal Features
-- Add a DOI to your paper
-- Quick turn around time for review
-- Increase impact factor when others cite your work
-- Integrate code, latex, or markdown for journal entries
-- Just went live and targeted towards decentralization and distributed computing
+
+-  Add a DOI to your paper
+-  Quick turn around time for review
+-  Increase impact factor when others cite your work
+-  Integrate code, latex, or markdown for journal entries
+-  Just went live and targeted towards decentralization and distributed
+   computing
 
 Website: https://authorea.com/inst/20499
 
