@@ -163,6 +163,7 @@ This is a journal to publish your decentralized, parallel processing, distriubut
 `Paper 1`_ \| `Paper 2`_
  
 Journal Features
+------------------
 
 -  Add a DOI to your paper
 -  Quick turn around time for review
