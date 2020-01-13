@@ -109,6 +109,8 @@ Install via NPM: ``npm i decentralized-internet``
 
 Install via YARN: ``yarn add decentralized-internet``
 
+Install via PIP: ``pip install decentralized-internet``
+
 Install via APM: ``apm install decentralized-internet``
 
 Ember Installation:  ``ember install decentralized-internet``
@@ -149,7 +151,7 @@ manner.
 
 `GitHub App`_
 
-|N|ChromeStore| | |N|OperaDownload|
+|N|ChromeStore| | |N|UptoDownDroid| | |N|OperaDownload|
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 
@@ -250,6 +252,8 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 .. _GitHub App: https://github.com/apps/decentralized-internet
 .. |N|ChromeStore| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/chromewebstore_badgewborder_v2.png
    :target: https://chrome.google.com/webstore/detail/decentralized-internet-sd/gdomaijaeldibcpllgjfimjgdjngojig   
+.. |N|UptoDownDroid| image:: https://stc.utdstc.com/img/download-uptodown8.png
+   :target: https://decentralized-internet.en.uptodown.com/android   
 .. |N|OperaDownload| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/opera(1).png
    :target: http://android.oms.apps.bemobi.com/en_us/decentralized_internet.html
    
