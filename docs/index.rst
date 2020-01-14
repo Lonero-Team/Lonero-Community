@@ -135,12 +135,31 @@ Arch Linux Installation Method:
    sudo snap install decentralized-internet --edge
 
 Install via Dart:
+
 Add to your pubspec.yaml file:
 ::
 
    dependencies:
      decentralized_internet: ^3.4.1
 Run: ``pub get``
+
+Use this Module via Puppet:
+
+Add this to your Puppetfile as a declaration:
+
+``mod 'gamer456148-decentralized_internet', '0.1.0'``
+
+Next run the command:
+
+``bolt puppetfile install``
+
+Instead of the above, you can also try adding:
+
+``mod 'gamer456148-decentralized_internet', '0.1.0'``
+
+This mod line is for those who use r10k or Code Manager
+
+Learn more `here`_
 
 This project was created in order to support a new internet. One that is
 more open, free, and censorship-resistant in comparison to the old
@@ -251,6 +270,7 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 .. |N|Solid| image:: https://ph-files.imgix.net/2bd39fd4-abe8-42e7-b58a-138556fbe115
 .. |N|lonscript| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/lscript_chart.png
    :target: https://www.starkdrones.org/home/lonscript
+.. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
 .. _GitHub App: https://github.com/apps/decentralized-internet
 .. |N|ChromeStore| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/chromewebstore_badgewborder_v2.png
    :target: https://chrome.google.com/webstore/detail/decentralized-internet-sd/gdomaijaeldibcpllgjfimjgdjngojig   
