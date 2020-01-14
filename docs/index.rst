@@ -134,7 +134,8 @@ Arch Linux Installation Method:
    sudo ln -s /var/lib/snapd/snap /snap
    sudo snap install decentralized-internet --edge
 
-Install via Dart:
+Install via Dart
+------------------
 
 Add to your pubspec.yaml file:
 ::
@@ -143,7 +144,8 @@ Add to your pubspec.yaml file:
      decentralized_internet: ^3.4.1
 Run: ``pub get``
 
-Use this Module via Puppet:
+Use this Module via Puppet
+----------------------------
 
 Add this to your Puppetfile as a declaration:
 
@@ -160,6 +162,8 @@ Instead of the above, you can also try adding:
 This mod line is for those who use r10k or Code Manager
 
 Learn more `here`_
+
+--------------
 
 This project was created in order to support a new internet. One that is
 more open, free, and censorship-resistant in comparison to the old
