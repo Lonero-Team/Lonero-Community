@@ -178,7 +178,8 @@ manner.
 
 |N|ChromeStore| | |N|UptoDownDroid| | |N|OperaDownload|
 
-**For citing this software:**  
+**For citing this software:**
+
 Kamal, A. M. decentralized-internet. npm (2019). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 23rd December 2019)
 
 .. _chainboard--the-next-gen-wireless-dev-board:
