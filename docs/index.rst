@@ -180,7 +180,7 @@ manner.
 
 **For citing this software:**
 
-Kamal, A. M. decentralized-internet. npm (2019). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 23rd December 2019)
+Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 27th January 2019)
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 
