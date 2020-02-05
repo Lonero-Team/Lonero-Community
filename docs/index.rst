@@ -125,11 +125,11 @@ Install via SNAP: ``sudo snap install decentralized-internet --edge``
 
 Docker Installation: ``docker pull gamer456148/decentralized-internet``
 
-Export Components: 
+Export Components
 --------------------
 ``bit export decentralized-internet.lonero_decentralized-internet``  
 
-Arch Linux Installation Method:
+Arch Linux Installation Method
 ------------------------------------
 
 ::
