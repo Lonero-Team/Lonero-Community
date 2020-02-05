@@ -125,7 +125,12 @@ Install via SNAP: ``sudo snap install decentralized-internet --edge``
 
 Docker Installation: ``docker pull gamer456148/decentralized-internet``
 
+Export Components: 
+--------------------
+``bit export decentralized-internet.lonero_decentralized-internet``  
+
 Arch Linux Installation Method:
+------------------------------------
 
 ::
 
@@ -151,7 +156,7 @@ Use this Module via Puppet
 
 Add this to your Puppetfile as a declaration:
 
-``mod 'gamer456148-decentralized_internet', '0.8.0'``
+``mod 'gamer456148-decentralized_internet', '0.8.1'``
 
 Next run the command:
 
@@ -159,7 +164,7 @@ Next run the command:
 
 Instead of the above, you can also try adding:
 
-``mod 'gamer456148-decentralized_internet', '0.8.0'``
+``mod 'gamer456148-decentralized_internet', '0.8.1'``
 
 This mod line is for those who use r10k or Code Manager
 
