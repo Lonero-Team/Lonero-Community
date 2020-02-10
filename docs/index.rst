@@ -131,7 +131,7 @@ Use Clojure CLI/deps.edn: ``decentralized-internet {:mvn/version "0.1.0"}``
 
 Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
 
-Add via Maven
+Add w/ Maven
 --------------
 
 ::
