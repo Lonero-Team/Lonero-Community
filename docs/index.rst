@@ -131,7 +131,7 @@ Use Clojure CLI/deps.edn: ``decentralized-internet {:mvn/version "0.1.0"}``
 
 Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
 
-Add w/ Maven
+Using Maven
 --------------
 
 ::
@@ -143,7 +143,7 @@ Add w/ Maven
    </dependency>
 
 Install via Dart
-------------------
+--------------------
 
 Add to your pubspec.yaml file:
 ::
