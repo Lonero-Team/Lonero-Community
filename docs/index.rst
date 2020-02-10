@@ -121,9 +121,26 @@ Ember Installation:  ``ember install decentralized-internet``
 
 Install via VS Code: ``ext install Lonero.decentralized-internet``
 
+Install through Leiningen/Boot: ``[decentralized-internet "0.1.0"]``
+
 Install via SNAP: ``sudo snap install decentralized-internet --edge``
 
 Docker Installation: ``docker pull gamer456148/decentralized-internet``
+
+Use Clojure CLI/deps.edn: ``decentralized-internet {:mvn/version "0.1.0"}``
+
+Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
+
+Add via Maven
+--------------
+
+::
+
+   <dependency>
+     <groupId>decentralized-internet</groupId>
+     <artifactId>decentralized-internet</artifactId>
+     <version>0.1.0</version>
+   </dependency>
 
 Install via Dart
 ------------------
@@ -144,7 +161,7 @@ Use this Module via Puppet
 
 Add this to your Puppetfile as a declaration:
 
-``mod 'gamer456148-decentralized_internet', '0.8.3'``
+``mod 'gamer456148-decentralized_internet', '0.9.0'``
 
 Next run the command:
 
@@ -152,7 +169,7 @@ Next run the command:
 
 Instead of the above, you can also try adding:
 
-``mod 'gamer456148-decentralized_internet', '0.8.3'``
+``mod 'gamer456148-decentralized_internet', '0.9.0'``
 
 This mod line is for those who use r10k or Code Manager
 
@@ -187,7 +204,7 @@ manner.
 
 **For citing this software:**
 
-Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 8th February 2020)
+Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 10th February 2020)
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 
