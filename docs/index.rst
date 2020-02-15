@@ -83,6 +83,18 @@ and so much more….
 
 |N|lonscript|   
 
+Syntax Charts
+--------------
+*Quads*
+|N|Quad|
+
+*Hex Unicode*
+|N|UnicodeHex|
+
+*Floating Exponents*
+|N|FloatingExp|
+
+
 Decentralized Internet Docs
 ===========================
 |npm| \| |Crates.io| \| |Discord|
@@ -302,6 +314,9 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 .. |N|Solid| image:: https://ph-files.imgix.net/2bd39fd4-abe8-42e7-b58a-138556fbe115
 .. |N|lonscript| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/lscript_chart.png
    :target: https://www.starkdrones.org/home/lonscript
+.. |N|Quad| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Quad.png   
+.. |N|UnicodeHex| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/UnicodetoHex.png   
+.. |N|FloatingExp| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Floating%20Exponents.png
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
 .. _GitHub App: https://github.com/apps/decentralized-internet
 .. |N|ChromeStore| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/chromewebstore_badgewborder_v2.png
