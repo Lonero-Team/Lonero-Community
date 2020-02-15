@@ -88,6 +88,9 @@ Syntax Charts
 *Quads*
 |N|Quad|
 
+*Strings*
+|N|Strings|
+
 *Hex Unicode*
 |N|UnicodeHex|
 
@@ -315,6 +318,7 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 .. |N|lonscript| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/lscript_chart.png
    :target: https://www.starkdrones.org/home/lonscript
 .. |N|Quad| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Quad.png   
+.. |N|Strings| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Strings.png
 .. |N|UnicodeHex| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/UnicodetoHex.png   
 .. |N|FloatingExp| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Floating%20Exponents.png
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
