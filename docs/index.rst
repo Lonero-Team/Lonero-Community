@@ -87,7 +87,6 @@ Syntax Charts
 --------------
 *Quads*
 |N|Quad|
-
 *Strings*
 |N|Strings|
 
