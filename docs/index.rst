@@ -145,32 +145,6 @@ Use Clojure CLI/deps.edn: ``decentralized-internet {:mvn/version "0.1.0"}``
 
 Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
 
-.. tabs::
-    .. tab:: Dart
-            Add to your pubspec.yaml file:
-            ::
-            
-               dependencies:
-                 decentralized_internet: ^3.4.1
-            Run: ``pub get``
-    .. tab:: Maven
-            .. code-block:: bash
-             <dependency>
-               <groupId>decentralized-internet</groupId>
-               <artifactId>decentralized-internet</artifactId>
-               <version>0.1.0</version>
-            </dependency>
-            
-    .. tab:: Arch Linux
-            .. code-block:: bash      
-           git clone https://aur.archlinux.org/snapd.git
-           cd snapd
-           makepkg -si
-           sudo systemctl enable --now snapd.socket
-           sudo ln -s /var/lib/snapd/snap /snap
-           sudo snap install decentralized-internet --edge
-    
-
 Using Maven
 --------------
 
