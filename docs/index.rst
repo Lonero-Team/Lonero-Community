@@ -91,7 +91,7 @@ Syntax Charts
 *Strings*
 |N|Strings|
 
-*Integers*  
+*Integers*
 
 |N|Integers|
 
@@ -104,7 +104,7 @@ Syntax Charts
 *Identifiers*
 |N|Identifiers|
 
-*Whitespaces*  
+*Whitespaces*
 
 |N|Whitespaces|
 
