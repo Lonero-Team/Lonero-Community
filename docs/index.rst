@@ -66,17 +66,17 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
    :maxdepth: 2
    :hidden:
    :glob:
-   :caption: Up-to-Date Related Academic Work
+   :caption: Up-to-Date Related Academics
 
-   Up-to-Date Related Academic Work/The Journal of Decentralized and Grid Computing
+   Up-to-Date Related Academics/The Journal of Decentralized and Grid Computing
    
 .. toctree::
    :maxdepth: 1
    :hidden:
    :glob:
-   :caption: ChainBoard | The Next Gen Wireless Dev Board
+   :caption: The Next Gen Wireless Dev Board
 
-   ChainBoard | The Next Gen Wireless Dev Board/About
+   The Next Gen Wireless Dev Board/About
 
 .. _Lonero Community: https://lonero-team.github.io/Lonero-Community/
 .. _beta: https://github.com/Lonero-Team/Lonero-Beta
