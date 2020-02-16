@@ -90,7 +90,8 @@ Syntax Charts
 *Strings*
 |N|Strings|
 
-*Integers*
+*Integers*  
+
 |N|Integers|
 
 *Comments*
