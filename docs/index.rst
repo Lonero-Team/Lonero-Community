@@ -102,10 +102,10 @@ Syntax Charts
 *Identifiers*
 |N|Identifiers|
 
-*Whitespaces*: |N|Whitespaces|
-
 *Hex Unicode*
 |N|UnicodeHex|
+
+*Whitespaces*: |N|Whitespaces|
 
 *Floating Exponents*
 |N|FloatingExp|
@@ -336,8 +336,8 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 .. |N|Comments| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Comments.png
 .. |N|Characters| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Characters.png
 .. |N|Identifiers| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Identifiers.png
+.. |N|UnicodeHex| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/UnicodetoHex.png 
 .. |N|Whitespaces| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Whitespaces.png
-.. |N|UnicodeHex| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/UnicodetoHex.png   
 .. |N|FloatingExp| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Floating%20Exponents.png
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
 .. _GitHub App: https://github.com/apps/decentralized-internet
