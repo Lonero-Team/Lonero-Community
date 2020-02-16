@@ -91,8 +91,7 @@ Syntax Charts
 *Strings*
 |N|Strings|
 
-*Integers*  
-|N|Integers|
+*Integers*: |N|Integers|
 
 *Comments*
 |N|Comments|
@@ -103,8 +102,7 @@ Syntax Charts
 *Identifiers*
 |N|Identifiers|
 
-*Whitespaces*  
-|N|Whitespaces|
+*Whitespaces*: |N|Whitespaces|
 
 *Hex Unicode*
 |N|UnicodeHex|
