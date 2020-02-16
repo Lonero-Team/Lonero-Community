@@ -98,6 +98,9 @@ Syntax Charts
 *Comments*
 |N|Comments|
 
+*Characters*
+|N|Characters|
+
 *Identifiers*
 |N|Identifiers|
 
@@ -335,6 +338,7 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 .. |N|Integers| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Integers.png
 .. |N|Strings| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Strings.png
 .. |N|Comments| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Comments.png
+.. |N|Characters| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Characters.png
 .. |N|Identifiers| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Identifiers.png
 .. |N|Whitespaces| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Whitespaces.png
 .. |N|UnicodeHex| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/UnicodetoHex.png   
