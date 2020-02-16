@@ -90,6 +90,9 @@ Syntax Charts
 *Strings*
 |N|Strings|
 
+*Identifiers*
+|N|Identifiers|
+
 *Hex Unicode*
 |N|UnicodeHex|
 
@@ -318,6 +321,7 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
    :target: https://www.starkdrones.org/home/lonscript
 .. |N|Quad| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Quad.png   
 .. |N|Strings| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Strings.png
+.. |N|Identifiers| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Identifiers.png
 .. |N|UnicodeHex| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/UnicodetoHex.png   
 .. |N|FloatingExp| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Floating%20Exponents.png
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
