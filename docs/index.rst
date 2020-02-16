@@ -42,6 +42,42 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
 `Lonero's Wiki`_
 ----------------
 
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Operating System
+
+   Operating System/Features
+   Operating System/Lonscript
+   
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Decentralized Internet Docs
+
+   Decentralized Internet Docs
+   
+   Decentralized Internet Docs/Critical Components
+   Decentralized Internet Docs/Hardware Cryptography
+   Decentralized Internet Docs/Main Installation Methods
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :glob:
+   :caption: Up-to-Date Related Academic Work
+
+   Up-to-Date Related Academic Work/The Journal of Decentralized and Grid Computing
+   
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :glob:
+   :caption: ChainBoard | The Next Gen Wireless Dev Board
+
+   ChainBoard | The Next Gen Wireless Dev Board/About
+
 Lonero Operating System
 =======================
 
