@@ -90,6 +90,9 @@ Syntax Charts
 *Strings*
 |N|Strings|
 
+*Integers*
+|N|Integers|
+
 *Comments*
 |N|Comments|
 
@@ -322,7 +325,8 @@ Given the capabilities of the components, and its cost, we didn't want ChainBoar
 .. |N|Solid| image:: https://ph-files.imgix.net/2bd39fd4-abe8-42e7-b58a-138556fbe115
 .. |N|lonscript| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/lscript_chart.png
    :target: https://www.starkdrones.org/home/lonscript
-.. |N|Quad| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Quad.png   
+.. |N|Quad| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Quad.png
+.. |N|Integers| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Integers.png
 .. |N|Strings| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Strings.png
 .. |N|Comments| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Comments.png
 .. |N|Identifiers| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Identifiers.png
