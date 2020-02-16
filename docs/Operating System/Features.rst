@@ -1,5 +1,5 @@
-Lonero Operating System
-=======================
+OS
+===
 
 |N|Solid1|
 
