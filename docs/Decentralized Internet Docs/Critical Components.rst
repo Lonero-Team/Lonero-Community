@@ -1,5 +1,5 @@
-Decentralized Internet Docs
-===========================
+Documentation
+==============
 |npm| \| |Crates.io| \| |Discord|
 \| |Gitter| \| |Read the Docs|
 
