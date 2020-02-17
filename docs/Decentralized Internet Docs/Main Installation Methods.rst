@@ -57,7 +57,7 @@ Use this Module via Puppet
 
 Add this to your Puppetfile as a declaration:
 
-``mod 'gamer456148-decentralized_internet', '0.9.0'``
+``mod 'gamer456148-decentralized_internet', '1.0.0'``
 
 Next run the command:
 
@@ -65,7 +65,7 @@ Next run the command:
 
 Instead of the above, you can also try adding:
 
-``mod 'gamer456148-decentralized_internet', '0.9.0'``
+``mod 'gamer456148-decentralized_internet', '1.0.0'``
 
 This mod line is for those who use r10k or Code Manager
 
@@ -100,7 +100,7 @@ manner.
 
 **For citing this software:**
 
-Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 10th February 2020)
+Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 17th February 2020)
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
