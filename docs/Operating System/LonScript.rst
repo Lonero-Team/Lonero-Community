@@ -21,7 +21,7 @@ Syntax Charts
 *Comments*
 |N|Comments|
 
-*Hex Digits*:
+*Hex Digits*
 |N|Hex Digit|
 
 *Characters*
