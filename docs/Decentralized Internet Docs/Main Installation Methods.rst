@@ -1,35 +1,21 @@
 Main Installation Methods
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Install via NPM: ``npm i decentralized-internet``
-
-Install via DUB: ``dub add decentralized-internet``  
-
-Install via YARN: ``yarn add decentralized-internet``
-
-Install via PIP: ``pip install decentralized-internet``
-
-Install via GEM: ``gem install decentralized-internet``
-
-Install via APM: ``apm install decentralized-internet``
-
-Ember Installation:  ``ember install decentralized-internet``
-
-Install via Spack: ``./spack install decentralized-internet``
-
-Install via VS Code: ``ext install Lonero.decentralized-internet``
-
-Install through Leiningen/Boot: ``[decentralized-internet "0.1.0"]``
-
-Install via SNAP: ``sudo snap install decentralized-internet --edge``
-
-Docker Installation: ``docker pull gamer456148/decentralized-internet``
-
-Use Clojure CLI/deps.edn: ``decentralized-internet {:mvn/version "0.1.0"}``
-
-Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
-
-Use wget: ``sudo wget -O decentralized-internet.tar.gz "https://git.io/JvR7b"``
+| Install via NPM: ``npm i decentralized-internet``
+| Install via DUB: ``dub add decentralized-internet``  
+| Install via YARN: ``yarn add decentralized-internet``
+| Install via PIP: ``pip install decentralized-internet``
+| Install via GEM: ``gem install decentralized-internet``
+| Install via APM: ``apm install decentralized-internet``
+| Ember Installation:  ``ember install decentralized-internet``
+| Install via Spack: ``./spack install decentralized-internet``
+| Install via VS Code: ``ext install Lonero.decentralized-internet``
+| Install through Leiningen/Boot: ``[decentralized-internet "0.1.0"]``
+| Install via SNAP: ``sudo snap install decentralized-internet --edge``
+| Docker Installation: ``docker pull gamer456148/decentralized-internet``
+| Use Clojure CLI/deps.edn: ``decentralized-internet {:mvn/version "0.1.0"}``
+| Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
+| Use wget: ``sudo wget -O decentralized-internet.tar.gz "https://git.io/JvR7b"``
 
 Using Maven
 --------------
