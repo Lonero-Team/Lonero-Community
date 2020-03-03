@@ -80,7 +80,7 @@ manner.
 
 `GitHub App`_
 
-|Mac| | |N|ChromeStore| | |N|UptoDownDroid| | |N|OperaDownload|
+|Mac| |N|ChromeStore| |N|UptoDownDroid| |N|OperaDownload|
 
 **For citing this software:**
 
