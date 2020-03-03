@@ -1,6 +1,7 @@
 Main Installation Methods
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+| Sketch Plugin: ``wget https://git.io/Jv2pk``
 | Install via NPM: ``npm i decentralized-internet``
 | Install via DUB: ``dub add decentralized-internet``  
 | Install via YARN: ``yarn add decentralized-internet``
@@ -46,11 +47,11 @@ Use this Module via Puppet
 ----------------------------
 
 | Add this to your Puppetfile as a declaration:
-| ``mod 'gamer456148-decentralized_internet', '1.2.0'``
+| ``mod 'gamer456148-decentralized_internet', '1.2.1'``
 | Next run the command:
 | ``bolt puppetfile install``
 | Instead of the above, you can also try adding:
-| ``mod 'gamer456148-decentralized_internet', '1.2.0'``
+| ``mod 'gamer456148-decentralized_internet', '1.2.1'``
 | This mod line is for those who use r10k or Code Manager
 | Learn more `here`_
 
@@ -79,7 +80,7 @@ manner.
 
 `GitHub App`_
 
-|N|ChromeStore| | |N|UptoDownDroid| | |N|OperaDownload|
+|Mac| | |N|ChromeStore| | |N|UptoDownDroid| | |N|OperaDownload|
 
 **For citing this software:**
 
@@ -88,6 +89,8 @@ Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs
 .. _chainboard--the-next-gen-wireless-dev-board:
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
 .. _GitHub App: https://github.com/apps/decentralized-internet
+.. |Mac| image:: https://jaywcjlove.github.io/sb/download/macos.svg
+   :target: https://git.io/Jv2pv
 .. |N|ChromeStore| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/chromewebstore_badgewborder_v2.png
    :target: https://chrome.google.com/webstore/detail/decentralized-internet-sd/gdomaijaeldibcpllgjfimjgdjngojig   
 .. |N|UptoDownDroid| image:: https://stc.utdstc.com/img/download-uptodown8.png
