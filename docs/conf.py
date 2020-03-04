@@ -46,7 +46,7 @@ intersphinx_mapping = {
 
 html_theme = 'sphinx_rtd_theme'
 html_theme_options = {
-    'logo_only': False,
+    'logo_only': True,
     'navigation_depth': 5,
 }
 html_theme_path = ["../.."]
