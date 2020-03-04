@@ -50,7 +50,7 @@ html_theme_options = {
     'navigation_depth': 5,
 }
 html_theme_path = ["../.."]
-html_logo = "docs/Logo.svg"
+html_logo = "Logo.svg"
 html_show_sourcelink = True
 
 htmlhelp_basename = slug
