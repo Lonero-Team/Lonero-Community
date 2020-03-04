@@ -16,8 +16,8 @@ project = u'Lonero Documentation'
 slug = re.sub(r'\W+', '-', project.lower())
 version = __version__
 release = __version__
-author = u'Andrew Kamal'
-copyright = The Lonero Foundation
+author = u'The Lonero Foundation'
+copyright = author
 language = 'en'
 
 extensions = [
