@@ -23,7 +23,7 @@ Commands list:
 | ``lonero-cli lon [FILE]``
 | ``lonero-cli lon-matrix [FILE]``
 | ``lonero-cli lon-multi [FILE]``
-| `lonero-cli plugin [FILE]``
+| ``lonero-cli plugin [FILE]``
 | ``lonero-cli produce [FILE]``
 | ``lonero-cli stage [FILE]``
 | ``lonero-cli test-compile [FILE]``
@@ -32,7 +32,7 @@ Lonero IDE
 --------------
 The Lonero IDE is also actively being built.
 
-Install via ``npm install lonero-ide`` 
+| Install via ``npm install lonero-ide`` 
 
 This is the official IDE for Lonero. In order to start, make sure you have yarn installed and NVM as well as Node version 10.  
 | Run the following:
