@@ -11,7 +11,8 @@ and so much more….
 Lonero CLI
 --------------
 The Lonero CLI is currently under construction, but once it is build should integrate all its core features.
-| Install via: ``npm install lonero-cli``
+
+Install via: ``npm install lonero-cli``
 
 Commands list:
 
@@ -34,7 +35,7 @@ The Lonero IDE is also actively being built.
 
 Install via ``npm install lonero-ide`` 
 
-This is the official IDE for Lonero. In order to start, make sure you have yarn installed and NVM as well as Node version 10.  
+This is the official IDE for Lonero. In order to start, make sure you have Yarn installed and NVM as well as Node version 10. If cloning from the GitHub repo, make sure to install all the dependencies. You don't need to run the npm install and yarn build command if directly installing from NPM.
 
 Run the following:
 ::
