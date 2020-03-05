@@ -23,7 +23,7 @@ Commands list:
 | ``lonero-cli lon [FILE]``
 | ``lonero-cli lon-matrix [FILE]``
 | ``lonero-cli lon-multi [FILE]``
-| ``lonero-cli plugin [FILE]``
+| `lonero-cli plugin [FILE]``
 | ``lonero-cli produce [FILE]``
 | ``lonero-cli stage [FILE]``
 | ``lonero-cli test-compile [FILE]``
