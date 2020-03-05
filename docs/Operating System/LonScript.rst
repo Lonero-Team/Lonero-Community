@@ -37,7 +37,7 @@ Install via ``npm install lonero-ide``
 This is the official IDE for Lonero. In order to start, make sure you have yarn installed and NVM as well as Node version 10.  
 
 Run the following:
-.. code-block:: shell
+::
 
    $ nvm install 10
    $ nvm use 10
