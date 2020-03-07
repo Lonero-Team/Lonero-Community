@@ -39,8 +39,8 @@ If seed node doesn't work, try one of the nodes in the `beta`_ config file
 Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \| `Coinium`_ \| `CoinHive`_ \| `CPUMiner`_ \| `MultiMiner`_ \| `MiningCore`_ \| `Poolserver`_
                                                                                                                                                                              
 
-`Lonero's Wiki`_
-----------------
+`Help Center`_ |  `Lonero's Wiki`_
+-----------------------------------
 
 
 .. toctree::
@@ -94,6 +94,7 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
 .. _MultiMiner: https://github.com/Lonero-Team/MultiMiner-Config
 .. _MiningCore: https://github.com/Lonero-Team/MiningCore-Config
 .. _Poolserver: https://github.com/Lonero-Team/Poolserver-File
+.. _Help Center: https://lonero-team.github.io/helpdesk/
 .. _Lonero's Wiki: https://github.com/Lonero-Team/Lonero-Community/wiki
 .. |PoweredBy| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Add%20a%20heading(15).png
    :target: https://www.starkdrones.org/home/os
