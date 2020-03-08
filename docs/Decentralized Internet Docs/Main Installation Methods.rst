@@ -8,6 +8,7 @@ Main Installation Methods
 | Install via PIP: ``pip install decentralized-internet``
 | Install via GEM: ``gem install decentralized-internet``
 | Install via APM: ``apm install decentralized-internet``
+| Install via PNPM: ``pnpm install decentralized-internet``
 | Ember Installation:  ``ember install decentralized-internet``
 | Install via Spack: ``./spack install decentralized-internet``
 | Install via VS Code: ``ext install Lonero.decentralized-internet``
@@ -47,11 +48,11 @@ Use this Module via Puppet
 ----------------------------
 
 | Add this to your Puppetfile as a declaration:
-| ``mod 'gamer456148-decentralized_internet', '2.0.1'``
+| ``mod 'gamer456148-decentralized_internet', '2.0.2'``
 | Next run the command:
 | ``bolt puppetfile install``
 | Instead of the above, you can also try adding:
-| ``mod 'gamer456148-decentralized_internet', '2.0.1'``
+| ``mod 'gamer456148-decentralized_internet', '2.0.2'``
 | This mod line is for those who use r10k or Code Manager
 | Learn more `here`_
 
