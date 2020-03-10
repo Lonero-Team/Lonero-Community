@@ -35,7 +35,7 @@ Main Installation Methods
    </dependency>
 
 | **Install via Dart**  
-Add to your pubspec.yaml file:
+| Add to your pubspec.yaml file:
 ::
 
    dependencies:
@@ -44,7 +44,7 @@ Run: ``pub get``
 
 
 | **Export Components**
-``bit export decentralized-internet.lonero_decentralized-internet``  
+| ``bit export decentralized-internet.lonero_decentralized-internet``  
 
 | **Use this Module via Puppet**
 | Add this to your Puppetfile as a declaration:
