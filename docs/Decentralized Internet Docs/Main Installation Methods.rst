@@ -19,9 +19,7 @@ Main Installation Methods
 | Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
 | Use wget: ``sudo wget -O decentralized-internet.tar.gz "https://git.io/JvR7b"``  
 
-
 | **Sysget Users:**
-
 | ``sysget install decentralized-internet``
 | *Pick either option: 4, 14, 15, 18 or 20*
 
@@ -36,9 +34,7 @@ Main Installation Methods
      <version>0.1.0</version>
    </dependency>
 
-
-| **Install via Dart**
-
+| **Install via Dart**  
 Add to your pubspec.yaml file:
 ::
 
@@ -48,12 +44,9 @@ Run: ``pub get``
 
 
 | **Export Components**
-
 ``bit export decentralized-internet.lonero_decentralized-internet``  
 
-
-| **Use this Module via Puppet**  
-
+| **Use this Module via Puppet**
 | Add this to your Puppetfile as a declaration:
 | ``mod 'gamer456148-decentralized_internet', '2.0.2'``
 | Next run the command:
@@ -63,9 +56,7 @@ Run: ``pub get``
 | This mod line is for those who use r10k or Code Manager
 | Learn more `here`_
 
-
 | **Arch Linux Installation Method**  
-
 ::
 
    git clone https://aur.archlinux.org/snapd.git
