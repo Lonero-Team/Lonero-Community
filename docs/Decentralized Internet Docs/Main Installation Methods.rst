@@ -19,11 +19,13 @@ Main Installation Methods
 | Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
 | Use wget: ``sudo wget -O decentralized-internet.tar.gz "https://git.io/JvR7b"``
 
-**Sysget Users:**  
+**Sysget Users:**
+
 | ``sysget install decentralized-internet``
 | *Pick either option: 4, 14, 15, 18 or 20*
 
 **Using Maven**
+
 ::
 
    <dependency>
@@ -41,7 +43,8 @@ Add to your pubspec.yaml file:
      decentralized_internet: ^3.4.1
 Run: ``pub get``
 
-**Export Components**  
+**Export Components**
+
 ``bit export decentralized-internet.lonero_decentralized-internet``  
 
 **Use this Module via Puppet**  
