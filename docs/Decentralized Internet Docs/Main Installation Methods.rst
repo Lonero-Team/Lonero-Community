@@ -19,7 +19,7 @@ Main Installation Methods
 | Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
 | Use wget: ``sudo wget -O decentralized-internet.tar.gz "https://git.io/JvR7b"``  
 
-| **Sysget Users:**
+| **Sysget Users**
 | ``sysget install decentralized-internet``
 | *Pick either option: 4, 14, 15, 18 or 20*
 
