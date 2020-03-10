@@ -19,9 +19,11 @@ Main Installation Methods
 | Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
 | Use wget: ``sudo wget -O decentralized-internet.tar.gz "https://git.io/JvR7b"``
 
-Using Maven
---------------
+**Sysget Users:**  
+| ``sysget install decentralized-internet``
+| *Pick either option: 4, 14, 15, 18 or 20*
 
+**Using Maven**
 ::
 
    <dependency>
@@ -30,8 +32,7 @@ Using Maven
      <version>0.1.0</version>
    </dependency>
 
-Install via Dart
---------------------
+**Install via Dart**
 
 Add to your pubspec.yaml file:
 ::
@@ -40,12 +41,10 @@ Add to your pubspec.yaml file:
      decentralized_internet: ^3.4.1
 Run: ``pub get``
 
-Export Components
---------------------
+**Export Components**  
 ``bit export decentralized-internet.lonero_decentralized-internet``  
 
-Use this Module via Puppet
-----------------------------
+**Use this Module via Puppet**  
 
 | Add this to your Puppetfile as a declaration:
 | ``mod 'gamer456148-decentralized_internet', '2.0.2'``
@@ -56,8 +55,7 @@ Use this Module via Puppet
 | This mod line is for those who use r10k or Code Manager
 | Learn more `here`_
 
-Arch Linux Installation Method
-------------------------------------
+**Arch Linux Installation Method**  
 
 ::
 
