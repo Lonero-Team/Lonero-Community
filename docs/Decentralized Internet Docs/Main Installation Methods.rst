@@ -82,8 +82,7 @@ manner.
 |Mac| |N|ChromeStore| |N|UptoDownDroid| |N|OperaDownload|
 
 **For citing this software:**
-
-Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 7th March 2020)
+| Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 7th March 2020)
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
