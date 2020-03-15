@@ -14,8 +14,8 @@ Main Installation Methods
 | Install via VS Code: ``ext install Lonero.decentralized-internet``
 | Install through Leiningen/Boot: ``[decentralized-internet "0.1.0"]``
 | Install via SNAP: ``sudo snap install decentralized-internet --edge``
-| Install via Bower: ``bower install Lonero-Team/Decentralized-Internet``
 | Docker Installation: ``docker pull gamer456148/decentralized-internet``
+| Install via Bower: ``bower install Lonero-Team/Decentralized-Internet``
 | Use Clojure CLI/deps.edn: ``decentralized-internet {:mvn/version "0.1.0"}``
 | Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
 | Use wget: ``sudo wget -O decentralized-internet.tar.gz "https://git.io/JvR7b"``  
