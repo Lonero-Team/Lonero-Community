@@ -51,9 +51,9 @@ Those are the core folder/component names of what we will be looking at.
 
 **What is Clusterpost?**
 
-Clusterpost is a grid computing tool that allows you to offload
+`Clusterpost`_ is a grid computing tool that allows you to offload
 processes to a CouchDB database. However, for this SDK the migration is
-suggesting to use BigChainDB over CouchDB on the basis of
+suggesting to use `BigChainDB`_ over CouchDB on the basis of
 decentralization opportunities. Clusterpost is also utilized for
 remotely scheduling and executing computational processes.
 
@@ -101,7 +101,7 @@ Next let us change the credentials as needed:
    },
                "mailer": {
                    "nodemailer": "nodemailer-stub-transport",
-                   "from": "clusterpost server <clusterpost@gmail.com>",
+                   "from": "clusterpost server <insertemail@here.com>",
                    "message": "Hello @USERNAME@,<br>Somebody asked me to send you a link to reset your password, hopefully it was you.<br>Follow this <a href='@SERVER@/public/#/login/reset?token=@TOKEN@'>link</a> to reset your password.<br>The link will expire in 30 minutes.<br>Bye."
                },
                "userdb" : {
@@ -272,6 +272,8 @@ This is why things have been setup the way they are.
    :target: https://gitter.im/Decentralized-Internet/community?source=orgpage
 .. |Read the Docs| image:: https://img.shields.io/readthedocs/lonero
    :target: https://lonero.readthedocs.io/en/latest/
+.. _Clusterpost: https://github.com/juanprietob/clusterpost
+.. _BigChainDB: https://github.com/bigchaindb/bigchaindb/tree/tendermint-backward-compat   
 .. _HaXe: https://haxe.org/
 .. _FlashDevelop: https://www.flashdevelop.org/
 .. _sidechain: https://medium.com/@jaekwon/cosmos-creating-interoperable-blockchains-part-1-2929435ba1fa
