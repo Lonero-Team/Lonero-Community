@@ -43,14 +43,13 @@ Main Installation Methods
      decentralized_internet: ^3.4.1
 Run: ``pub get``
 
-
-| **Export Components**
-| ``bit export decentralized-internet.lonero_decentralized-internet``  
-
-| **Install via Cordova:**
+| **Install via Cordova**
 | ``cordova plugin add https://github.com/Lonero-Team/Decentralized-Internet.git``
 | Or ``cordova plugin searchcordova-plugin-decentralized-internet``
 | Or ``cordova plugin add cordova-plugin-decentralized-internet``
+
+| **Export Components**
+| ``bit export decentralized-internet.lonero_decentralized-internet``  
 
 | **Use this Module via Puppet**
 | Add this to your Puppetfile as a declaration:
