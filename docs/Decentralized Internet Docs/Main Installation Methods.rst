@@ -9,9 +9,9 @@ Main Installation Methods
 | Install via APM: ``apm install decentralized-internet``
 | Install via GEM: ``gem install decentralized-internet``
 | Install via PNPM: ``pnpm install decentralized-internet``
-| Install via Raco: ``raco pkg install decentralized-internet``
-| Install via Spack: ``./spack install decentralized-internet``
 | Ember Installation:  ``ember install decentralized-internet``
+| Install via Spack: ``./spack install decentralized-internet``
+| Raco Installation: ``raco pkg install decentralized-internet``
 | Install via VS Code: ``ext install Lonero.decentralized-internet``
 | Install through Leiningen/Boot: ``[decentralized-internet "0.1.0"]``
 | Install via SNAP: ``sudo snap install decentralized-internet --edge``
