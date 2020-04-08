@@ -54,11 +54,11 @@ Run: ``pub get``
 
 | **Use this Module via Puppet**
 | Add this to your Puppetfile as a declaration:
-| ``mod 'gamer456148-decentralized_internet', '4.0.0'``
+| ``mod 'gamer456148-decentralized_internet', '4.0.1'``
 | Next run the command:
 | ``bolt puppetfile install``
 | Instead of the above, you can also try adding:
-| ``mod 'gamer456148-decentralized_internet', '4.0.0'``
+| ``mod 'gamer456148-decentralized_internet', '4.0.1'``
 | This mod line is for those who use r10k or Code Manager
 | Learn more `here`_
 
