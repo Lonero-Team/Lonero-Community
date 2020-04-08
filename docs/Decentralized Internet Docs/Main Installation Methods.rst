@@ -11,6 +11,7 @@ Main Installation Methods
 | Install via PNPM: ``pnpm install decentralized-internet``
 | Install via Spack: ``./spack install decentralized-internet``
 | Ember Installation:  ``ember install decentralized-internet``
+| Install via Raco: ``raco pkg install decentralized-internet``
 | Install via VS Code: ``ext install Lonero.decentralized-internet``
 | Install through Leiningen/Boot: ``[decentralized-internet "0.1.0"]``
 | Install via SNAP: ``sudo snap install decentralized-internet --edge``
@@ -88,7 +89,7 @@ manner.
 
 **For citing this software:**
 
-Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 7th April 2020)
+Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 8th April 2020)
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
