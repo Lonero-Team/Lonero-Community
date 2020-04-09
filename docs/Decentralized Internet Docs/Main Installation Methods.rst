@@ -19,6 +19,7 @@ Main Installation Methods
 | Docker Installation: ``docker pull gamer456148/decentralized-internet``
 | Use Clojure CLI/deps.edn: ``decentralized-internet {:mvn/version "0.1.0"}``
 | Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
+| SourceForge: ``git clone git://git.code.sf.net/p/decentralized-internet/git``  
 | Use wget: ``sudo wget -O decentralized-internet.tar.gz "https://git.io/JvR7b"``  
 
 | **Sysget Users**
@@ -54,11 +55,11 @@ Run: ``pub get``
 
 | **Use this Module via Puppet**
 | Add this to your Puppetfile as a declaration:
-| ``mod 'gamer456148-decentralized_internet', '4.0.4'``
+| ``mod 'gamer456148-decentralized_internet', '4.0.5'``
 | Next run the command:
 | ``bolt puppetfile install``
 | Instead of the above, you can also try adding:
-| ``mod 'gamer456148-decentralized_internet', '4.0.4'``
+| ``mod 'gamer456148-decentralized_internet', '4.0.5'``
 | This mod line is for those who use r10k or Code Manager
 | Learn more `here`_
 
@@ -89,7 +90,7 @@ manner.
 
 **For citing this software:**
 
-Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 8th April 2020)
+Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 9th April 2020)
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
