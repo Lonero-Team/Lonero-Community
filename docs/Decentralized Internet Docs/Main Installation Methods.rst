@@ -86,7 +86,7 @@ manner.
 
 `GitHub App`_
 
-|Mac| |N|ChromeStore| |N|UptoDownDroid| |N|OperaDownload|
+|Mac| |N|ChromeStore| |N|UptoDownDroid| |N|OperaDownload| |GooglePlay|
 
 **For citing this software:**
 
@@ -103,3 +103,5 @@ Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs
    :target: https://decentralized-internet.en.uptodown.com/android   
 .. |N|OperaDownload| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/opera(1).png
    :target: http://android.oms.apps.bemobi.com/en_us/decentralized_internet.html
+.. |GooglePlay| image:: https://jaywcjlove.github.io/sb/download/googleplay.svg
+   :target: https://play.google.com/store/apps/details?id=com.asamkmm.SLTJ
