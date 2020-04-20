@@ -84,7 +84,7 @@ net. Grid Computing also plays a role in having a better means of
 transferring information in a speedy, more cost-efficient and reliable
 manner.
 
-`GetJar`_ `Soft32`_ `AppAgg`_ `GitHub App`_ `Software Informer`_
+`GetJar`_ `Soft32`_ `AppAgg`_ `GitHub App`_ `AlternativeTo`_ `Software Informer`_
 
 |Mac| |N|ChromeStore| |N|UptoDownDroid| |N|OperaDownload| |GooglePlay|
 
@@ -98,6 +98,7 @@ Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs
 .. _Soft32: https://decentralized-internet.soft32.com/
 .. _AppAgg: https://appagg.com/android/communication/decentralized-internet-sdk-34450780.html?hl=en
 .. _GitHub App: https://github.com/apps/decentralized-internet
+.. _AlternativeTo: https://alternativeto.net/software/decentralized-internet/
 .. _Software Informer: https://decentralized-internet.software.informer.com/
 .. |Mac| image:: https://jaywcjlove.github.io/sb/download/macos.svg
    :target: https://git.io/Jv2pv
