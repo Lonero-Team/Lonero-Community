@@ -100,5 +100,5 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
 .. _Lonero's Wiki: https://github.com/Lonero-Team/Lonero-Community/wiki
 .. |PoweredBy| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Add%20a%20heading(15).png
    :target: https://www.starkdrones.org/home/os
-.. |kitco| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/kitco(1).png
+.. |kitco| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Copy%20of%20kit.png
    :target: https://kit.co/startup
