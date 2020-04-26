@@ -12,8 +12,10 @@ Main Installation Methods
 | Install via Spack: ``./spack install decentralized-internet``
 | Ember Installation:  ``ember install decentralized-internet``
 | Raco Installation: ``raco pkg install decentralized-internet``
+| Install w/ Meteor: ``meteor add startup:decentralized-internet``
 | Install via VS Code: ``ext install Lonero.decentralized-internet``
 | Install through Leiningen/Boot: ``[decentralized-internet "0.1.0"]``
+| Other Meteor Method: ``meteor npm install decentralized-internet``
 | Install via SNAP: ``sudo snap install decentralized-internet --edge``
 | Install via Bower: ``bower install Lonero-Team/Decentralized-Internet``
 | Docker Installation: ``docker pull gamer456148/decentralized-internet``
@@ -55,11 +57,11 @@ Run: ``pub get``
 
 | **Use this Module via Puppet**
 | Add this to your Puppetfile as a declaration:
-| ``mod 'gamer456148-decentralized_internet', '4.1.4'``
+| ``mod 'gamer456148-decentralized_internet', '4.2.0'``
 | Next run the command:
 | ``bolt puppetfile install``
 | Instead of the above, you can also try adding:
-| ``mod 'gamer456148-decentralized_internet', '4.1.4'``
+| ``mod 'gamer456148-decentralized_internet', '4.2.0'``
 | This mod line is for those who use r10k or Code Manager
 | Learn more `here`_
 
@@ -90,7 +92,7 @@ manner.
 
 **For citing this software:**
 
-Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 25th April 2020)
+Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 26th April 2020)
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
