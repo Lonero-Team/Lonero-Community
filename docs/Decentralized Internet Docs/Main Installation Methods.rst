@@ -15,8 +15,8 @@ Main Installation Methods
 | Install w/ Meteor: ``meteor add startup:decentralized-internet``
 | Install via VS Code: ``ext install Lonero.decentralized-internet``
 | Install through Leiningen/Boot: ``[decentralized-internet "0.1.0"]``
-| Other Meteor Method: ``meteor npm install decentralized-internet``
 | Install via SNAP: ``sudo snap install decentralized-internet --edge``
+| Other Meteor Method: ``meteor npm install decentralized-internet``
 | Install via Bower: ``bower install Lonero-Team/Decentralized-Internet``
 | Docker Installation: ``docker pull gamer456148/decentralized-internet``
 | Use Clojure CLI/deps.edn: ``decentralized-internet {:mvn/version "0.1.0"}``
