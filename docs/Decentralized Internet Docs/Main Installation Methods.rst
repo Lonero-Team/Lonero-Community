@@ -58,11 +58,11 @@ Run: ``pub get``
 
 | **Use this Module via Puppet**
 | Add this to your Puppetfile as a declaration:
-| ``mod 'gamer456148-decentralized_internet', '4.3.1'``
+| ``mod 'gamer456148-decentralized_internet', '4.4.0'``
 | Next run the command:
 | ``bolt puppetfile install``
 | Instead of the above, you can also try adding:
-| ``mod 'gamer456148-decentralized_internet', '4.3.1'``
+| ``mod 'gamer456148-decentralized_internet', '4.4.0'``
 | This mod line is for those who use r10k or Code Manager
 | Learn more `here`_
 
@@ -93,7 +93,7 @@ manner.
 
 **For citing this software:**
 
-Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 29th April 2020)
+Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs.com/package/decentralized-internet. (Accessed: 30th April 2020)
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
