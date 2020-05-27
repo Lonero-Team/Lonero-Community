@@ -13,9 +13,7 @@ Critical Components
 Basic Usage Introduction
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-This is the same usage guide that will be in *"Beyond
-Blockchain: The Futurist Guide to Innovative Technologies"* when
-available on LeanPub and other places.
+This is the same usage guide that is available in on `LeanPub`_ and `other`_ places.
 
 One way to get started is by installing the SDK. Let us start by
 running:
@@ -272,6 +270,8 @@ This is why things have been setup the way they are.
    :target: https://gitter.im/Decentralized-Internet/community?source=orgpage
 .. |Read the Docs| image:: https://img.shields.io/readthedocs/lonero
    :target: https://lonero.readthedocs.io/en/latest/
+.. _LeanPub: https://leanpub.com/futurism   
+.. _other: https://hackaday.io/project/171604-building-a-decentralized-internet   
 .. _Clusterpost: https://github.com/juanprietob/clusterpost
 .. _BigChainDB: https://github.com/bigchaindb/bigchaindb/tree/tendermint-backward-compat   
 .. _HaXe: https://haxe.org/
