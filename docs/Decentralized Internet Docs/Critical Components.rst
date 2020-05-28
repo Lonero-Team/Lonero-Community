@@ -13,7 +13,7 @@ Critical Components
 Basic Usage Introduction
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-This is the same usage guide that is available in on `LeanPub`_ and `other`_ places.
+This is the same usage guide that is available in `LeanPub`_ and `other`_ places.
 
 One way to get started is by installing the SDK. Let us start by
 running:
