@@ -88,9 +88,9 @@ net. Grid Computing also plays a role in having a better means of
 transferring information in a speedy, more cost-efficient and reliable
 manner.
 
-`GetJar`_ `Soft32`_ `GitLab`_ `Aptoide`_ `Softpile`_ `TideLift`_ `AppAgg`_ `Apptoko`_ `GitHub App`_ `AlternativeTo`_ `Software Informer`_
-
 |Mac| |N|ChromeStore| |N|UptoDownDroid| |N|OperaDownload| |GooglePlay|
+
+`GetJar`_ `Soft32`_ `GitLab`_ `Aptoide`_ `Softpile`_ `TideLift`_ `AppAgg`_ `Apptoko`_ `GitHub App`_ `Stackshare`_ `AlternativeTo`_ `Software Informer`_
 
 **For citing this software:**
 
@@ -98,17 +98,6 @@ Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
-.. _GetJar: https://www.getjar.com/categories/tool-apps/Decentralized-Internet-976910
-.. _Soft32: https://decentralized-internet.soft32.com/
-.. _GitLab: https://gitlab.com/decentralizedinternet/Decentralized-Internet
-.. _Aptoide: https://decentralized-internet-sdk.en.aptoide.com/
-.. _Softpile: https://www.softpile.com/decentralized-internet/
-.. _TideLift: https://www.minds.com/newsfeed/1100003685079408640?referrer=LoneroLNR
-.. _AppAgg: https://appagg.com/android/communication/decentralized-internet-sdk-34450780.html?hl=en
-.. _Apptoko: https://apptoko.com/android/search?keyword=com.asamkmm.SLTJ
-.. _GitHub App: https://github.com/apps/decentralized-internet
-.. _AlternativeTo: https://alternativeto.net/software/decentralized-internet/
-.. _Software Informer: https://decentralized-internet.software.informer.com/
 .. |Mac| image:: https://jaywcjlove.github.io/sb/download/macos.svg
    :target: https://git.io/Jv2pv
 .. |N|ChromeStore| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/chromewebstore_badgewborder_v2.png
@@ -118,4 +107,16 @@ Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs
 .. |N|OperaDownload| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/opera(1).png
    :target: http://android.oms.apps.bemobi.com/en_us/decentralized_internet.html
 .. |GooglePlay| image:: https://jaywcjlove.github.io/sb/download/googleplay.svg
+.. _GetJar: https://www.getjar.com/categories/tool-apps/Decentralized-Internet-976910
+.. _Soft32: https://decentralized-internet.soft32.com/
+.. _GitLab: https://gitlab.com/decentralizedinternet/Decentralized-Internet
+.. _Aptoide: https://decentralized-internet-sdk.en.aptoide.com/
+.. _Softpile: https://www.softpile.com/decentralized-internet/
+.. _TideLift: https://www.minds.com/newsfeed/1100003685079408640?referrer=LoneroLNR
+.. _AppAgg: https://appagg.com/android/communication/decentralized-internet-sdk-34450780.html?hl=en
+.. _Apptoko: https://apptoko.com/android/search?keyword=com.asamkmm.SLTJ
+.. _GitHub App: https://github.com/apps/decentralized-internet
+.. _Stackshare: https://stackshare.io/decentralized-internet
+.. _AlternativeTo: https://alternativeto.net/software/decentralized-internet/
+.. _Software Informer: https://decentralized-internet.software.informer.com/
    :target: https://play.google.com/store/apps/details?id=com.asamkmm.SLTJ
