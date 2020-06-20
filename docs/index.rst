@@ -40,7 +40,7 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
                                                                                                                                                                              
 |kitco|
 
-`Stats`_ | `Open Hub`_ | `Help Center`_ |  `Lonero's Wiki`_
+`API`_ | `Wiki`_ | `Stats`_ | `Open Hub`_ | `Help Center`_
 -----------------------------------------------
 
 
@@ -95,10 +95,11 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
 .. _MultiMiner: https://github.com/Lonero-Team/MultiMiner-Config
 .. _MiningCore: https://github.com/Lonero-Team/MiningCore-Config
 .. _Poolserver: https://github.com/Lonero-Team/Poolserver-File
+.. _API: https://lonero-team.github.io/API/
+.. _Wiki: https://github.com/Lonero-Team/Lonero-Community/wiki
 .. _Stats: https://lonero-team.github.io/Dashboard
 .. _Open Hub: https://www.openhub.net/p/decentralized-internet
 .. _Help Center: https://lonero-team.github.io/helpdesk/
-.. _Lonero's Wiki: https://github.com/Lonero-Team/Lonero-Community/wiki
 .. |PoweredBy| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Add%20a%20heading(15).png
    :target: https://www.starkdrones.org/home/os
 .. |kitco| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Copy%20of%20kit.png
