@@ -48,6 +48,8 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
    :maxdepth: 2
    :hidden:
    :caption: Operating System
+   
+   OS
 
    OS/Features
    OS/LonScript
@@ -57,7 +59,7 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
    :hidden:
    :caption: Decentralized Internet Docs
 
-   Decentralized Internet Docs
+   Docs
    
    Docs/Components
    Docs/Cryptography
@@ -76,7 +78,7 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
    :hidden:
    :caption: LNR Next Generation Hardware
 
-   LNR Next Generation Hardware
+   Hardware
    
    Hardware/PeerTop
    Hardware/ChainBoard
