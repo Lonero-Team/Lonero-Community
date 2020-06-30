@@ -59,9 +59,9 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
 
    Decentralized Internet Docs
    
-   Decentralized Internet Docs/Components
-   Decentralized Internet Docs/Cryptography
-   Decentralized Internet Docs/Installation
+   Decentralized Internet Docs/Documentation
+   Decentralized Internet Docs/Hardware Cryptography
+   Decentralized Internet Docs/Main Installation Methods
    
 .. toctree::
    :maxdepth: 2
