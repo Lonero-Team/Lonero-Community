@@ -49,8 +49,8 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
    :hidden:
    :caption: Operating System
 
-   Operating System/Features
-   Operating System/LonScript
+   OS/Features
+   OS/LonScript
    
 .. toctree::
    :maxdepth: 1
@@ -59,9 +59,9 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
 
    Decentralized Internet Docs
    
-   Decentralized Internet Docs/Critical Components
-   Decentralized Internet Docs/Hardware Cryptography
-   Decentralized Internet Docs/Main Installation Methods
+   Docs/Components
+   Docs/Cryptography
+   Docs/Install
    
 .. toctree::
    :maxdepth: 2
@@ -74,12 +74,12 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Lonero Next Generation Hardware
+   :caption: LNR Next Generation Hardware
 
-   Lonero Next Generation Hardware
+   LNR Next Generation Hardware
    
-   Lonero Next Generation Hardware/PeerTop
-   Lonero Next Generation Hardware/ChainBoard
+   Hardware/PeerTop
+   Hardware/ChainBoard
 
 .. _Lonero Community: https://lonero-team.github.io/Lonero-Community/
 .. _beta: https://github.com/Lonero-Team/Lonero-Beta
