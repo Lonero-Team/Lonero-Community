@@ -75,9 +75,9 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
    :maxdepth: 1
    :hidden:
    :glob:
-   :caption: The Next Gen Wireless Dev Board
+   :caption: Lonero Next Generation Hardware
 
-   The Next Gen Wireless Dev Board/About
+   Lonero Next Generation Hardware/About
 
 .. _Lonero Community: https://lonero-team.github.io/Lonero-Community/
 .. _beta: https://github.com/Lonero-Team/Lonero-Beta
