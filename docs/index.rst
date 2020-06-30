@@ -70,14 +70,16 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
    :caption: Up-to-Date Related Academics
 
    Up-to-Date Related Academics/The Journal of Decentralized and Grid Computing
-   
+
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :glob:
    :caption: Lonero Next Generation Hardware
 
-   Lonero Next Generation Hardware/About
+   Lonero Next Generation Hardware
+   
+   Lonero Next Generation Hardware/PeerTop
+   Lonero Next Generation Hardware/ChainBoard
 
 .. _Lonero Community: https://lonero-team.github.io/Lonero-Community/
 .. _beta: https://github.com/Lonero-Team/Lonero-Beta
