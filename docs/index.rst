@@ -36,7 +36,7 @@ Seed Node
 
 If seed node doesn't work, try one of the nodes in the `beta`_ config file
 
-Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \| `Coinium`_ \| `CoinHive`_ \| `CPUMiner`_ \| `MultiMiner`_ \| `MiningCore`_ \| `Poolserver`_
+Configs: `hpool`_ \| `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \| `Coinium`_ \| `CoinHive`_ \| `CPUMiner`_ \| `MultiMiner`_ \| `MiningCore`_ \| `Poolserver`_
                                                                                                                                                                              
 |kitco|
 
@@ -85,6 +85,7 @@ Configs: `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \
 .. _beta: https://github.com/Lonero-Team/Lonero-Beta
 .. _website: https://lonero.org
 .. _standard: https://github.com/Lonero-Team/
+.. _hpool: https://github.com/Lonero-Team/hpool-Config
 .. _NOMP: https://github.com/Lonero-Team/NOMP-Config
 .. _OSMP: https://github.com/Lonero-Team/OSMP-Configs
 .. _YAAMP: https://github.com/Lonero-Team/Yaamp-Configuration
