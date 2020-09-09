@@ -6,7 +6,7 @@ digital cash. The problem with current privacy coins, alt coins, and
 emerging cryptocurrencies relies mainly on stability, security, and an
 unknown future. We aim to fix many of these stability issues, be
 extremely decentralized, and have technology that actively supports the
-community. We are utilizing some of the most advanced techno- logical
+community. We are utilizing some of the most advanced technological
 protocols in order to do so. This includes our consensus protocols that
 support less barriers amongst ASIC vs. Non-ASIC systems, along with the
 Cryptonote foundation’s widely trusted ring signature protocols,
