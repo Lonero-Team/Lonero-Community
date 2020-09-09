@@ -45,6 +45,16 @@ Configs: `hpool`_ \| `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| 
 
 
 .. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Lonero
+   
+   Lonero/Crypto
+   Lonero/Protocol
+   Lonero/Governance
+   Lonero/Architecture
+   
+.. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Operating System
