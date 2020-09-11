@@ -116,15 +116,3 @@ Configs: `hpool`_ \| `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| 
    :target: https://www.starkdrones.org/home/os
 .. |kitco| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Copy%20of%20kit.png
    :target: https://kit.co/startup
-
-
-Contents
---------
-.. toctree::
-   :maxdepth: 2
-   
-   Lonero
-   Operating System
-   Decentralized Internet Docs
-   Up-to-Date Related Academics
-   LNR Next Generation Hardware
