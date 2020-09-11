@@ -1,6 +1,8 @@
 Crypto
 ======
 
+.. contents:: Table of Contents
+
 Intro
 -----
 
