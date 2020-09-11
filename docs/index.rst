@@ -46,6 +46,11 @@ Configs: `hpool`_ \| `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| 
 :ref:`Keyword Index <genindex>`, :ref:`Search Page <search>`
 
 .. toctree::
+   :hidden:
+
+   genindex
+
+.. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Lonero
