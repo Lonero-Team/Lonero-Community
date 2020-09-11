@@ -36,19 +36,12 @@ Seed Node
 
 If seed node doesn't work, try one of the nodes in the `beta`_ config file
 
-:ref:`Keyword Index <genindex>`, :ref:`Search Page <search>`
-
 Configs: `hpool`_ \| `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| `Stratum`_ \| `Coinium`_ \| `CoinHive`_ \| `CPUMiner`_ \| `MultiMiner`_ \| `MiningCore`_ \| `Poolserver`_
                                                                                                                                                                              
 |kitco|
 
 `API`_ | `Wiki`_ | `Stats`_ | `Open Hub`_ | `Help Center`_
 -----------------------------------------------
-
-.. toctree::
-   :hidden:
-
-   genindex
 
 .. toctree::
    :maxdepth: 2
