@@ -122,8 +122,7 @@ Contents
 --------
 .. toctree::
    :maxdepth: 2
-   :glob:
-
+   
    Lonero
    Operating System
    Decentralized Internet Docs
