@@ -107,6 +107,60 @@ healthy competition.
 
 The Lonero Foundation
 ----------------------
+The Lonero Foundation is the group behind the further development of
+Lonero and its community. Our goal as the Lonero Foundation is to drive
+the prosperous usage of Lonero (LNR) and the technological potential of
+cryptocurrencies. We aim to ensure that projects built on top of Lonero
+are beneficial for the industry and plan on making strategic
+partnerships for continued sustainability and growth. We will always
+advocate for privacy, security, and social awareness of topics that
+effect the industry. This includes: “Supporting a free market”,
+“Decentralized usage of crypto”, “Avoiding market monopolies”, “Privacy
+in our digital age”, and sustaining our community. We believe a free
+market society that encourages healthy competition is part of what could
+make cryptocurrency great.
+
+Economically struggling third world countries could greatly benefit from
+the use of cryptocurrencies and spawn a new era of societal development.
+The world around us needs a free market society based off of
+technological advantages, opportunities, and a truly decentralized P2P
+system. The original goal of Bitcoin was to provide a decentralized,
+point to point electronic cash system free from centralization by the
+policies of a single entity. We believe the original Bitcoin Core still
+holds true to that mission, as well as many other cryptocurrencies in
+the market today. However, the decentralization aspect can be taken even
+further. The greatest issue facing other cryptocurrencies in comparison
+to Bitcoin is the illusion of demand without a fully perceived
+technological value.
+
+Major companies in essence are using ICOs and the exchange of
+cryptocurrencies as a monopoly. Projects are raising hundreds of
+millions and reaching multi-billion-dollar market caps without a
+finished product or a Minimum Viable Product. This trend needs to end,
+as it is problematic for the continuation of a sustainable community.
+The Lonero Foundation also believes that it isn’t the lack of regulation
+that is hurting the cryptocurrency community, as much as a combination
+of greed and technological ignorance. With the technologies featured by
+Lonero, having one of the largest Initial Coin Offerings is very
+possible, however we find no need to do so. If the team can develop the
+technology and believe that it can grow purely on the basis of
+technological value, an ICO is meaningless.
+
+Privacy is an extremely important topic for us. Many people in the
+technology industry are beginning to advocate that privacy is dead, and
+a critical problem is the misuse of our personal data. While it is true
+that people allow this misuse to some extent, many companies still go
+far with what they use our data for. We at the Lonero foundation aim to
+never collect the personal data of our users without informing them
+prior to doing so, as well as never using your personal data for
+political or monetary gain.
+
+Transparency is important to us, and one of the values that the Lonero
+Foundation closely adheres to. Without transparency, it is fully
+difficult for a community to flourish. A proper community always
+flourishes with trust and a great product. Throughout our mission we aim
+to be one of the most transparent and community focused teams in the
+industry.
 
 What are Merkle Trees?
 -----------------------
