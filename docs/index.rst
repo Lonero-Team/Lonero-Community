@@ -117,5 +117,6 @@ Configs: `hpool`_ \| `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| 
 .. |kitco| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Copy%20of%20kit.png
    :target: https://kit.co/startup
 
-.. contents:: :local: Table of Contents
+.. contents:: Table of Contents
+    :local:
     :depth: 3
