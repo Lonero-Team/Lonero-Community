@@ -43,10 +43,10 @@ Configs: `hpool`_ \| `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| 
 `API`_ | `Wiki`_ | `Stats`_ | `Open Hub`_ | `Help Center`_
 -----------------------------------------------
 
+--------------
+
 Contents
 =========
-
---------------
 
 .. toctree::
    :maxdepth: 2
