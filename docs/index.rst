@@ -116,3 +116,48 @@ Configs: `hpool`_ \| `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| 
    :target: https://www.starkdrones.org/home/os
 .. |kitco| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Copy%20of%20kit.png
    :target: https://kit.co/startup
+   
+Contents
+---------
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Lonero
+   
+   Lonero/Crypto
+   Lonero/Protocol
+   Lonero/Governance
+   Lonero/Architecture
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Operating System
+   
+   Operating System/Features
+   Operating System/LonScript
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Decentralized Internet Docs
+
+   Decentralized Internet Docs
+   
+   Decentralized Internet Docs/Critical Components
+   Decentralized Internet Docs/Hardware Cryptography
+   Decentralized Internet Docs/Main Installation Methods
+   
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: Up-to-Date Related Academics
+
+   Up-to-Date Related Academics/The Journal of Decentralized and Grid Computing
+
+.. toctree::
+   :maxdepth: 1
+   :caption: LNR Next Generation Hardware
+
+   LNR Next Generation Hardware
+   
+   LNR Next Generation Hardware/PeerTop
+   LNR Next Generation Hardware/ChainBoard   
