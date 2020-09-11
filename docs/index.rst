@@ -121,7 +121,6 @@ Contents
 ---------
 .. toctree::
    :maxdepth: 2
-   :hidden:
    :caption: Lonero
    
    Lonero/Crypto
