@@ -44,9 +44,6 @@ Configs: `hpool`_ \| `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| 
 -----------------------------------------------
 
 .. toctree::
- :numbered:
-
-.. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Lonero
