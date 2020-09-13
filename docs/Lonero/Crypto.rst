@@ -165,8 +165,44 @@ industry.
 What are Merkle Trees?
 -----------------------
 
+|MTreesLNR|
+
+Merkle trees are an important part of the transactional structure of
+most cryptocurrencies. Lonero’s own infrastructure will rely on a merkle
+tree proof but have layers of complexities integrated in it. This allows
+for a better integration of its current technologies. Current merkle
+trees utilize an infrastructure that starts with the root and creates a
+“leaf and tree node” for transactional hashes. What we do is integrate a
+merkle proof for cryptographic complexity then utilize a ring signature
+verification protocol for auditory proof of the transaction. All this
+happens while we are integrating higher capacity path wall layers for
+encryption and compressing the block in order to prevent the network
+from overloading. Since we are utilizing this protocol, we can prevent
+network congestion.
+
+The allowance of transactional nodes, allows us to integrate with
+multipath layer security and the ring signature protocol much more
+efficiently. Since we are integrating PoW and PoC mining in our
+consensus, we can offset the network cache while still allowing for a
+high method of complexity for the security of Lonero's blockchain. The
+best way to state it is the following:
+
+1. Start the root: (Merkle Tree's origin for the transaction)
+2. Integrate the sub root (Nodes of the transactions)
+3. Verify the ring signatures (Before going to the next node)
+4. Add a layer of complexity for the hashes upon the next node
+5. Repeat for every transaction
+
 Defining Cryptocurrency
 ------------------------
+A Cryptocurrency is a medium of exchange that integrates hash based
+algorithms or cryptography for more secure transactions. Most
+cryptocurrencies utilize peer to peer communication for decentralized
+networks, and have some sort of proof based algorithm for the
+feasibility of the network. The most common proofs are: PoW (Proof of
+Work), PoC (Proof of Capacity/Space), PoS (Proof of Stake), Proof of
+Signature, and Hybrids. Many cryptocurrencies also utilize an origin
+block and transactional merkle trees.
 
 Multi-Path Layer Security
 --------------------------
@@ -188,3 +224,4 @@ Applying Euclidean Geometry
 
 .. |HBolt| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Hashbolt.png
 .. |minelnruml| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/MiningUML.png
+.. |MTreesLNR| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/MerkleUML.png
