@@ -206,9 +206,49 @@ block and transactional merkle trees.
 
 Multi-Path Layer Security
 --------------------------
+|MPLYRSLNR|
+
+The Lonero Foundation plans on integrating multipath layer security into
+our network. This applies to the ring signature and the transactional
+nodes. The allowance of multipath layer security will keep our network
+stable for long term user support and growth. The security protocol is
+broken into a series of parts. First, one must start with the original
+transactional hash. Then, once the ring signatures are verified, layers
+of hashes are added to the complexity and difficulty target. For the
+next node, the same process repeats recursively. Eventually, the network
+keeps getting higher in security and transactional nodes are nearly
+impossible to crack. The better this is integrated by algorithmic means
+to the network, the more stable future Lonero will have as a
+cryptocurrency.
+
+Later, this can inspire newer projects or cryptocurrencies, and even way
+more advanced methods like Quantum encryption can still learn from what
+has been the past. The allowance of multipath layer security also
+establishes trust in the network and allows third party vendors the
+confidence to integrate Lonero with their point of sale systems. Over
+time, you are establishing a mathematical standard for trust through
+proof of cryptography for every single new string of nodes created. Just
+as money used to have a gold standard, cryptocurrency needs to have both
+a cryptographic and mathematical standard. These topics are highlighted
+more in our mathematical proofs.
 
 Analyzing Polynomial Time
 --------------------------
+ | 2O(log n) = poly(n) → Karmarkar’s theorem
+ | 2poly(log n) → Quasi-polynomial time
+Karmarkar’s theorem is utilized for solving linear problems in
+polynomial time. This is where statistical analysis will allow for
+regression. By utilizing Quasi-Polynomial time, it creates complex
+sequential rings and patterns for the blockchain's ring signature. This
+allows for the ability to create more mathematical proofs for solving a
+block. Another primary aspect to recursive functions are patterns that
+fall under the same patterns as Volterra integro-differential equations.
+This is especially true with sequential data, in which having hybrid
+mining algorithms typically utilizes a piecewise polynomial within its
+logic. Since you are analyzing polynomial regression, you can create
+algorithmic extensions to solving certain aspects of the blockchain such
+as computational benchmarks and predictive analysis for having a better
+luck chance of solving the block.
 
 Merkle Mathematical Proofs
 ---------------------------
@@ -225,3 +265,4 @@ Applying Euclidean Geometry
 .. |HBolt| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Hashbolt.png
 .. |minelnruml| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/MiningUML.png
 .. |MTreesLNR| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/MerkleUML.png
+.. |MPLYRSLNR| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/HashUML.png
