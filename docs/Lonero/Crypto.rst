@@ -252,17 +252,76 @@ luck chance of solving the block.
 
 Merkle Mathematical Proofs
 ---------------------------
+The Merkle tree proof that we are utilizing is the integration of the
+ring signature verification, multipath layer security and the
+utilization of polynomial time. The sequential rings and patterns
+integrated on the blockchain allow for more efficient hashing and
+regression for further nodes in the transactional roots. Because of the
+mathematical proof we have, people can create their own custom mining
+algorithms to go along with what will be readily available in the
+market. Later, depending on community support, we may also create open
+source tools and developer SDKs centered around algorithmic capabilities
+and PoC mining for end users.
 
 The Ring Signature Protocol
 ---------------------------
+We utilize cryptonote's ring signature protocol for verification of
+transactional PoW. Traditional methods utilize a public and private key
+integration for verifying the original signature of a transaction.
+However, ring signatures add an extra layer of complexity and security.
+They utilize several public and private keys for the shared
+transactional hash to verify the block. This means instead of just one
+public to private key verification, you are further increasing security
+by adding more signatures to your transactions. Utilizing this group
+verification method is known as "Ring Signatures" and is similar to the
+original signature method but integrates multiple signatures for
+verification. Since you are using multiple signatures, the original
+transaction root still knows the original public and private signers
+once the verification for a transaction hash is verified.
+
+In terms of using large scale systems, ring signatures allows for the
+transactions to be eventually untraceable and a more secure form of
+exchange. However, methods can still be implemented to prevent abuse of
+the system. Having, a ring signature type protocol allows for a more
+open market, and when utilized correctly, you can still have a network
+with high speeds. Compliance is still possible with advanced forms of
+exchange and allowing a technological implication of these protocols can
+make actions such as cross border transactions faster, safer, and
+significantly more secure.
 
 Problem with Current Mining
 ----------------------------
+Traditional mining systems are extremely outdated and inefficient. They
+require higher capacity hardware for greater profitability, which leads
+to the opportunity for market monopolies. Market monopolies can hence be
+created for mining hardware, GPU systems, or even centralized towards
+people who have data centers or mining farms. While, it is true that
+people with greater hardware capacity may profit more using traditional
+mining on Lonero's systems, there are still ways around it. Creating the
+ability for "Proof of Capacity" mining solutions, (as talked about
+earlier), allows for people to solve the blockchain utilizing their
+mathematical capabilities and understanding. Now, not only wealth is
+rewarded, but mathematical knowledge.
 
 Applying Euclidean Geometry
 -----------------------------
+We have plans to integrate computer vision technologies later with
+Lonero's core technological infrastructure. Part of this will be
+Euclidean geometry and an A.I. that can integrate with merkle tree
+proofs. This will be integrated in a series of different areas such as
+the DAO creation, compression on the blockchain, and sequential pattern
+recognition amongst the network. Imagine a merkle tree being
+geometrically analyzed and manipulated as is a data structure.
+Obviously, this will be a long stretch goal in terms of integrating with
+Lonero's core development and will be laid out for the community over
+time.
+
+   For more info read `Beyond Blockchain: The Futurist Guide to Innovative
+   Technologies`_ or visit the `Lonero`_ website.
 
 .. |HBolt| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Hashbolt.png
 .. |minelnruml| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/MiningUML.png
 .. |MTreesLNR| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/MerkleUML.png
 .. |MPLYRSLNR| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/HashUML.png
+.. _`Beyond Blockchain: The Futurist Guide to Innovative Technologies`: https://leanpub.com/futurism
+.. _Lonero: https://www.lonero.org/
