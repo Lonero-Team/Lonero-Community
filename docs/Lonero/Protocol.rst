@@ -17,7 +17,7 @@ cases for Lonero across a variety of different sectors.
 
 Crypto Mining
 ---------------
-Current cryptocurrency mining is limited to special type of hardware.
+Current cryptocurrency mining is limited to special types of hardware.
 However, Lonero is working on leveling the playing field. More details
 about this is shown under the `crypto section`_ or our whitepaper.
 
