@@ -318,6 +318,8 @@ time.
 
    For more info read `Beyond Blockchain: The Futurist Guide to Innovative
    Technologies`_ or visit the `Lonero`_ website.
+   
+`Everipedia`_ \| `Announcement`_
 
 .. |HBolt| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Hashbolt.png
 .. |minelnruml| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/MiningUML.png
@@ -325,3 +327,5 @@ time.
 .. |MPLYRSLNR| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/HashUML.png
 .. _`Beyond Blockchain: The Futurist Guide to Innovative Technologies`: https://leanpub.com/futurism
 .. _Lonero: https://www.lonero.org/
+.. _Everipedia: https://everipedia.org/wiki/lang_en/lonero
+.. _Announcement: https://www.minds.com/newsfeed/1165654756163330048
