@@ -40,7 +40,7 @@ Configs: `hpool`_ \| `NOMP`_ \| `OSMP`_ \| `YAAMP`_ \| `UMOMP`_ \| `P2Pool`_ \| 
                                                                                                                                                                              
 |kitco|
 
-`API`_ | `Wiki`_ | `Stats`_ | `Open Hub`_ | `Help Center`_
+`API`_ | `Wiki`_ | `Stats`_ | `Status`_ | `Open Hub`_ | `Help Center`_
 -----------------------------------------------
 
 --------------
@@ -110,6 +110,7 @@ Contents
 .. _API: https://lonero-team.github.io/API/
 .. _Wiki: https://github.com/Lonero-Team/Lonero-Community/wiki
 .. _Stats: https://lonero-team.github.io/Dashboard
+.. _Status: https://lonerostatus.statuspage.io/
 .. _Open Hub: https://www.openhub.net/p/decentralized-internet
 .. _Help Center: https://lonero-team.github.io/helpdesk/
 .. |PoweredBy| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/Add%20a%20heading(15).png
