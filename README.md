@@ -1,4 +1,6 @@
-#  PLEASE NOTE DOCUMENTATION PAGE/SITE IS UNDER CONSTRUCTION!
+<img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/banner.png">
+
+#####  PLEASE NOTE DOCUMENTATION PAGE/SITE IS UNDER CONSTRUCTION!
 
 # [Lonero Community](https://lonero-team.github.io/Lonero-Community/)
 Informational landing page in markdown to go along with the [website](https://lonero.org)
