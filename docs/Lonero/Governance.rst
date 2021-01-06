@@ -4,7 +4,7 @@ Governance
 This is under construction
 
 Abstract
----------
+~~~~~~~~~~
 We will present technological methodologies and perspectives related to
 a modern day socioeconomic system proposal. The basis of this system
 will be centered around anarcho-capitalistic concepts, decentralization,
@@ -21,7 +21,19 @@ ethics, politics, sociophysics, economics, and financial economic
 theory.
 
 Introduction
--------------
+~~~~~~~~~~~~~~
+The `Lonero`_ project integrates its own cryptocurrency, as well as a
+series of open hardware and collaborative efforts, in order to create
+its own framework for a decentralized pipeline of systems. `Lonero's`_
+crypto `LNR`_, has a technological integration for a series of different
+proofs that is compatible with ASIC and non-ASIC systems. Its mining
+validation system utilizes both "Proof of Work" and "Proof of Space".
+The way `Lonero's`_ systems can be integrated in place goes beyond
+mining, distributed computing or shared networks. One can further apply
+concepts of governance and disruptive socioeconomic models.
+
+Purpose
+------------------
 `Lonero's`_ technology is centered around decentralization and
 decentralized use-cases, including its very own `decentralized-internet
 SDK`_. In current modern times, in regards to socioeconomic systems and
@@ -37,3 +49,4 @@ regards to something `Lonero`_ wants to work on.
 .. _UDIs: https://support.stockcharts.com/doku.php?id=data:user-defined_indexes
 .. _Lonero's: https://lonero.org
 .. _Lonero: https://lonero.org
+.. _LNR: https://lonero.readthedocs.io/en/latest/Lonero/Crypto.html
