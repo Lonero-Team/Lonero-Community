@@ -42,9 +42,6 @@ Materials
  | |PayPal| 
  | **See Terms Below**
 
-.. |PayPal| image:: https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif
-   :target: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUV5HVLWQHL4J
-
 The Diagrams
 ------------
 
@@ -77,3 +74,5 @@ research.
 .. _Money Transmitter License: https://dilendorf.com/blockchain-crypto/money-transmitter-licensing.html
 .. _Jay Clayton: https://www.investopedia.com/news/sec-chair-says-bitcoin-not-security/
 .. _Lonero: https://lonero.org
+.. |PayPal| image:: https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif
+   :target: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUV5HVLWQHL4J
