@@ -1,9 +1,9 @@
+Lonero ATM Project
+==================
+
 .. raw:: html
 
    <img src="https://raw.githubusercontent.com/Mentors4EDU/Images/master/banner.png">
-
-Lonero ATM Project
-==================
 
 .. image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/LoneroATM.png
    :alt: LoneroATM
