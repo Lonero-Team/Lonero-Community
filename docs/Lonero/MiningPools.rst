@@ -13,7 +13,9 @@ First Install Dependencies
 
 | ``sudo apt-get install aptitude``
 | ``sudo aptitude update``
-| ``sudo aptitude install –with-recommends build-essential autotools-dev autoconf automake libcurl3 libcurl4-gnutls-dev git make cmake libssl-dev pkg-config libevent-dev libunbound-dev libminiupnpc-dev doxygen supervisor jq libboost-all-dev htop``
+| ``sudo aptitude install –with-recommends build-essential autotools-dev autoconf automake 
+| libcurl3 libcurl4-gnutls-dev git make cmake libssl-dev pkg-config libevent-dev libunbound-dev
+| libminiupnpc-dev doxygen supervisor jq libboost-all-dev htop``
 | ``apt-get install build-essential libtool autotools-dev autoconf pkg-config libssl-dev``
 | ``apt-get install libboost-all-dev git npm nodejs nodejs-legacy libminiupnpc-dev redis-server``
 | ``add-apt-repository ppa:bitcoin/bitcoin``
