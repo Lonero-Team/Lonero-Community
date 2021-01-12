@@ -38,7 +38,7 @@ Materials
 
    Make sure to have the required tools and a knowledge of soldering
    
-**Get Kit w/ Just the Materials (No Case):** 
+**Get Kit w/ Just the Materials (No Case): $450** 
  | |PayPal| 
  | **See Terms Below**
 
