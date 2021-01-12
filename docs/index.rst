@@ -56,6 +56,7 @@ Contents
    Lonero/Protocol
    Lonero/Governance
    Lonero/Architecture
+   Lonero/MiningPools
    
 .. toctree::
    :maxdepth: 2
