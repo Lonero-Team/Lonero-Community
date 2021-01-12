@@ -37,6 +37,13 @@ Materials
 ..
 
    Make sure to have the required tools and a knowledge of soldering
+   
+**Get Kit w/ Just the Materials (No Case):** 
+| |PayPal| 
+| **See Terms**
+
+.. |PayPal| image:: https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif
+   :target: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUV5HVLWQHL4J
 
 The Diagrams
 ------------
