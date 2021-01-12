@@ -41,6 +41,7 @@ Materials
 **Get Kit w/ Just the Materials (No Case): $450** 
  | |PayPal| 
  | **See Terms Below**
+ | *Please allow 10 to 15 extra days for shipping*
 
 The Diagrams
 ------------
