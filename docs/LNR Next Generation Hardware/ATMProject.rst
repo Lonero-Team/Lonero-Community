@@ -39,7 +39,7 @@ Materials
    Make sure to have the required tools and a knowledge of soldering
    
 **Get Kit w/ Just the Materials (No Case): $450** 
- | |PayPal| 
+ | |CBank| 
  | **See Terms Below**
  | *Please allow 10 to 15 extra days for shipping*
 
@@ -75,5 +75,5 @@ research.
 .. _Money Transmitter License: https://dilendorf.com/blockchain-crypto/money-transmitter-licensing.html
 .. _Jay Clayton: https://www.investopedia.com/news/sec-chair-says-bitcoin-not-security/
 .. _Lonero: https://lonero.org
-.. |PayPal| image:: https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif
+.. |CBank| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/CBankButton.png
    :target: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUV5HVLWQHL4J
