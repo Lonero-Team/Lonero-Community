@@ -87,6 +87,8 @@ Contents
 
    LNR Next Generation Hardware
    
+   LNR Next Generation Hardware/ATMProject
+   LNR Next Generation Hardware/KineticMiner
    LNR Next Generation Hardware/PeerTop
    LNR Next Generation Hardware/ChainBoard   
 
