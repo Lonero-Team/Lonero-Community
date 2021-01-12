@@ -8,8 +8,8 @@ Make a Mining Pool
 Create a Lonero Mining Pool
 ===========================
 
-First Install Dependencies
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Deps.
+~~~~~~~~~~
 
 | ``sudo apt-get install aptitude``
 | ``sudo aptitude update``
@@ -33,49 +33,49 @@ First Install Dependencies
 | ``sudo ufw app list``
 | ``sudo ufw allow 'Apache Full'``
 
-Install Lonero-Beta
-~~~~~~~~~~~~~~~~~~~
+Install Beta
+~~~~~~~~~~~~~
 
 | ``git clone https://github.com/Lonero-Team/Lonero-Beta.git``
 | ``cd Lonero-Beta``
 
-Start Forknoted
-~~~~~~~~~~~~~~~
+Start Daemon
+~~~~~~~~~~~~~~
 
 ``./forknoted --config-file configs/lonero.conf``
 
-Start Simplewallet
+Start the Wallet
 ~~~~~~~~~~~~~~~~~~
 
 ``./simplewallet --config-file configs/lonero.conf``
 
-Install Pool Software
-~~~~~~~~~~~~~~~~~~~~~
+Add the Software
+~~~~~~~~~~~~~~~~~
 
 | ``git clone https://github.com/forknote/cryptonote-universal-pool.git pool``
 | ``cd pool``
 | ``npm update``
 
-Configure Pool
-~~~~~~~~~~~~~~
+Configure the Pool
+~~~~~~~~~~~~~~~~~~~~~
 
 | ``cp config_example.json config.json``
 | Change ports to ``34414`` and ``34415``
 | If your IP is static, change the host to your static IP.
 
-Start Pool
-~~~~~~~~~~
+Start the Mining Pool
+~~~~~~~~~~~~~~~~~~~~~~
 
 run ``node init.js``
 
-Hosting the Front End
-~~~~~~~~~~~~~~~~~~~~~
+Host the Pool's Front End
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Copy files from the website to html directory:
 | ``sudo cp -rf admin.html config.js custom.css custom.js index.html pages/ themes/ /var/www/html``
 
-Site Customization
-~~~~~~~~~~~~~~~~~~
+Customize the Mining Pool
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Update your pool's IP in the configs:
 | ``cd /var/www/html``
