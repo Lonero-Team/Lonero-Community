@@ -39,7 +39,7 @@ Materials
    Make sure to have the required tools and a knowledge of soldering
    
 **Get Kit w/ Just the Materials (No Case): $450** 
- | |CBank| 
+ | |PayPal| 
  | **See Terms Below**
  | *Please allow 10 to 15 extra days for shipping*
 
@@ -79,7 +79,7 @@ Model`_.
 .. _Money Transmitter License: https://dilendorf.com/blockchain-crypto/money-transmitter-licensing.html
 .. _Jay Clayton: https://www.investopedia.com/news/sec-chair-says-bitcoin-not-security/
 .. _Lonero: https://lonero.org
-.. |CBank| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/CBankButton.png
+.. |PayPal| image:: https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif
    :target: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUV5HVLWQHL4J
 .. _Lamassu configs: https://github.com/Lonero-Team/Lamassu-Configs
 .. _Open Franchise Model: https://open-franchise.github.io/
