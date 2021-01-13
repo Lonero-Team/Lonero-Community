@@ -70,6 +70,10 @@ not responsible for any liabilities related to the construction process,
 or any other known or unknown liabilities. Make sure to do your own
 research.
 
+If you are interested in implementing something outside of **OpenATM**,
+perhaps check the `Lamassu configs`_ or look into the `Open Franchise
+Model`_.
+
 .. _openbitcoinatm: https://openbitcoinatm.wordpress.com/
 .. _Bitstop: https://bitstop.co/
 .. _Money Transmitter License: https://dilendorf.com/blockchain-crypto/money-transmitter-licensing.html
@@ -77,3 +81,5 @@ research.
 .. _Lonero: https://lonero.org
 .. |CBank| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/CBankButton.png
    :target: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUV5HVLWQHL4J
+.. _Lamassu configs: https://github.com/Lonero-Team/Lamassu-Configs
+.. _Open Franchise Model: https://open-franchise.github.io/
