@@ -107,6 +107,7 @@ Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs
 .. |N|OperaDownload| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/opera(1).png
    :target: http://android.oms.apps.bemobi.com/en_us/decentralized_internet.html
 .. |GooglePlay| image:: https://jaywcjlove.github.io/sb/download/googleplay.svg
+   :target: https://play.google.com/store/apps/details?id=com.asamkmm.SLTJ
 .. _GetJar: https://www.getjar.com/categories/tool-apps/Decentralized-Internet-976910
 .. _Soft32: https://decentralized-internet.soft32.com/
 .. _GitLab: https://gitlab.com/decentralizedinternet/Decentralized-Internet
@@ -119,4 +120,3 @@ Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs
 .. _Stackshare: https://stackshare.io/decentralized-internet
 .. _AlternativeTo: https://alternativeto.net/software/decentralized-internet/
 .. _Software Informer: https://decentralized-internet.software.informer.com/
-   :target: https://play.google.com/store/apps/details?id=com.asamkmm.SLTJ
