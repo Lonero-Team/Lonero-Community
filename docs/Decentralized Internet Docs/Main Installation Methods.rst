@@ -93,8 +93,8 @@ droplets.
 **Configurations:** \
 For ease of simplicity, I recommend installing the `Slap IDE`_ over VIM or GNU Nano. \
 ``curl -sL https://raw.githubusercontent.com/slap-editor/slap/master/install.sh | sh`` \
-Also keep in mind if you decide to use slap, it utilizes Node.js so make sure you have the latest version installed: \
-``sudo npm install -g slap@latest`` \
+ | Also keep in mind if you decide to use slap, it utilizes Node.js so make sure you have the latest version installed:
+ | ``sudo npm install -g slap@latest`` \
 You can now run the Slap commandsseen `at their repo`_, for editing code files. For HaXe, I recommend you do the default PPA Ubuntu Installation:
 
 ::
@@ -112,8 +112,8 @@ Or run the Debain installation:
    mkdir ~/haxelib && haxelib setup ~/haxelib
 
 The rest of the configuration instructions in regards to Debian, can be
-seen `at the HaXe site`_. \
-After you install Slap and Haxe on the Droplet, I recommend you use Slap for editing needed code files, and the ``haxelib`` commands in the terminal in regards to HaXe code files.
+seen `at the HaXe site`_.
+ | After you install Slap and Haxe on the Droplet, I recommend you use Slap for editing needed code files, and the ``haxelib`` commands in the terminal in regards to HaXe code files.
 
 .. _DigitalOcean: https://www.digitalocean.com/
 .. _Marketplace: https://marketplace.digitalocean.com/
