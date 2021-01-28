@@ -66,16 +66,6 @@ Run: ``pub get``
 | ``mod 'gamer456148-decentralized_internet', '5.2.1'``
 | This mod line is for those who use r10k or Code Manager
 | Learn more `here`_
-
-| **Arch Linux Installation Method**  
-::
-
-   git clone https://aur.archlinux.org/snapd.git
-   cd snapd
-   makepkg -si
-   sudo systemctl enable --now snapd.socket
-   sudo ln -s /var/lib/snapd/snap /snap
-   sudo snap install decentralized-internet --edge
    
 **For Installing on** `DigitalOcean`_ 
 
@@ -115,12 +105,15 @@ The rest of the configuration instructions in regards to Debian, can be
 seen `at the HaXe site`_.
  | After you install Slap and Haxe on the Droplet, I recommend you use Slap for editing needed code files, and the ``haxelib`` commands in the terminal in regards to HaXe code files.
 
-.. _DigitalOcean: https://www.digitalocean.com/
-.. _Marketplace: https://marketplace.digitalocean.com/
-.. _that is here: https://lonero.readthedocs.io/en/latest/Decentralized%20Internet%20Docs/Critical%20Components.html
-.. _Slap IDE: https://github.com/slap-editor/slap
-.. _at their repo: https://github.com/slap-editor/slap#usage
-.. _at the HaXe site: https://haxe.org/download/linux/   
+| **Arch Linux Installation Method**  
+::
+
+   git clone https://aur.archlinux.org/snapd.git
+   cd snapd
+   makepkg -si
+   sudo systemctl enable --now snapd.socket
+   sudo ln -s /var/lib/snapd/snap /snap
+   sudo snap install decentralized-internet --edge
 
 --------------
 
@@ -143,6 +136,12 @@ Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
+.. _DigitalOcean: https://www.digitalocean.com/
+.. _Marketplace: https://marketplace.digitalocean.com/
+.. _that is here: https://lonero.readthedocs.io/en/latest/Decentralized%20Internet%20Docs/Critical%20Components.html
+.. _Slap IDE: https://github.com/slap-editor/slap
+.. _at their repo: https://github.com/slap-editor/slap#usage
+.. _at the HaXe site: https://haxe.org/download/linux/   
 .. |Mac| image:: https://jaywcjlove.github.io/sb/download/macos.svg
    :target: https://git.io/Jv2pv
 .. |N|ChromeStore| image:: https://raw.githubusercontent.com/Mentors4EDU/Images/master/chromewebstore_badgewborder_v2.png
