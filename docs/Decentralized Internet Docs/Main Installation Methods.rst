@@ -77,25 +77,25 @@ Run: ``pub get``
    sudo ln -s /var/lib/snapd/snap /snap
    sudo snap install decentralized-internet --edge
    
-**For Installing on**\ `DigitalOcean`_ *Please keep in mind as of the
-time of writing this, our SDK is not yet live on the DigialOcean
-Marketplace*
+**For Installing on** `DigitalOcean`_ 
 
-**First Step:** In order to install via one click app, (When available),
+*Please keep in mind as of the time of writing this, our SDK is not yet live on the DigialOcean Marketplace*
+
+**First Step:** \
+In order to install via one click app, (When available),
 click the "Create Droplet Button" via the `Marketplace`_ page.
 
-**Second Step:** In regards to usage, I recommend reading our SDK's
+**Second Step:** \
+In regards to usage, I recommend reading our SDK's
 generic usage guide `that is here`_. The same instructions apply to
 droplets.
 
-**Configurations:** For ease of simplicity, I recommend installing the
-`Slap IDE`_ over VIM or GNU Nano.
+**Configurations:** \
+For ease of simplicity, I recommend installing the `Slap IDE`_ over VIM or GNU Nano.
 ``curl -sL https://raw.githubusercontent.com/slap-editor/slap/master/install.sh | sh``
-Also keep in mind if you decide to use slap, it utilizes Node.js so make
-sure you have the latest version installed:
-``sudo npm install -g slap@latest`` You can now run the Slap commands
-seen `at their repo`_, for editing code files. For HaXe, I recommend you
-do the default PPA Ubuntu Installation:
+Also keep in mind if you decide to use slap, it utilizes Node.js so make sure you have the latest version installed:
+``sudo npm install -g slap@latest`` \
+You can now run the Slap commandsseen `at their repo`_, for editing code files. For HaXe, I recommend you do the default PPA Ubuntu Installation:
 
 ::
 
