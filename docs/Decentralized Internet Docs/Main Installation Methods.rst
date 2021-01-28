@@ -26,10 +26,13 @@ Main Installation Methods
 | SourceForge: ``git clone git://git.code.sf.net/p/decentralized-internet/git``  
 | Use wget: ``sudo wget -O decentralized-internet.tar.gz "https://git.io/JvR7b"``  
 
+--------------
+
 | **Sysget Users**
 | ``sysget install decentralized-internet``
 | *Pick either option: 4, 14, 15, 18 or 20*
 
+--------------
 
 | **Using Maven**
 
@@ -41,6 +44,8 @@ Main Installation Methods
      <version>0.1.0</version>
    </dependency>
 
+--------------
+
 | **Install via Dart**  
 | Add to your pubspec.yaml file:
 ::
@@ -49,13 +54,19 @@ Main Installation Methods
      decentralized_internet: ^3.4.1
 Run: ``pub get``
 
+--------------
+
 | **Install via Cordova**
 | ``cordova plugin add https://github.com/Lonero-Team/Decentralized-Internet.git``
 | Or ``cordova plugin searchcordova-plugin-decentralized-internet``
 | Or ``cordova plugin add cordova-plugin-decentralized-internet``
 
+--------------
+
 | **Export Components**
 | ``bit export decentralized-internet.lonero_decentralized-internet``  
+
+--------------
 
 | **Use this Module via Puppet**
 | Add this to your Puppetfile as a declaration:
@@ -66,7 +77,9 @@ Run: ``pub get``
 | ``mod 'gamer456148-decentralized_internet', '5.2.1'``
 | This mod line is for those who use r10k or Code Manager
 | Learn more `here`_
-   
+
+--------------
+
 **For Installing on** `DigitalOcean`_ 
 
 *Please keep in mind as of the time of writing this, our SDK is not yet live on the DigialOcean Marketplace*
@@ -103,6 +116,8 @@ Or run the Debain installation:
 The rest of the configuration instructions in regards to Debian, can be
 seen `at the HaXe site`_.
  | After you install Slap and Haxe on the Droplet, I recommend you use Slap for editing needed code files, and the ``haxelib`` commands in the terminal in regards to HaXe code files.
+
+--------------
 
 | **Arch Linux Installation Method**  
 ::
