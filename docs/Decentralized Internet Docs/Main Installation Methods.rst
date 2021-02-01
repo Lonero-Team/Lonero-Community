@@ -98,7 +98,7 @@ Run: ``pub get``
 *Please keep in mind as of the time of writing this, our SDK is not yet live on the DigialOcean Marketplace*
 
 **First Step:** \
-In order to install via one click app, (When available),
+In order to install via one click app, *(When available)*,
 click the "Create Droplet Button" via the `Marketplace`_ page.
 
 **Second Step:** \
