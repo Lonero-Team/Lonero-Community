@@ -80,6 +80,18 @@ Run: ``pub get``
 
 --------------
 
+| **Arch Linux Installation Method**  
+::
+
+   git clone https://aur.archlinux.org/snapd.git
+   cd snapd
+   makepkg -si
+   sudo systemctl enable --now snapd.socket
+   sudo ln -s /var/lib/snapd/snap /snap
+   sudo snap install decentralized-internet --edge
+   
+--------------
+
 **For Installing on** `DigitalOcean`_ 
 ---------------------------------------
 
@@ -117,18 +129,6 @@ Or run the Debain installation:
 The rest of the configuration instructions in regards to Debian, can be
 seen `at the HaXe site`_.
  | After you install Slap and Haxe on the Droplet, I recommend you use Slap for editing needed code files, and the ``haxelib`` commands in the terminal in regards to HaXe code files.
-
---------------
-
-| **Arch Linux Installation Method**  
-::
-
-   git clone https://aur.archlinux.org/snapd.git
-   cd snapd
-   makepkg -si
-   sudo systemctl enable --now snapd.socket
-   sudo ln -s /var/lib/snapd/snap /snap
-   sudo snap install decentralized-internet --edge
 
 --------------
 
