@@ -108,7 +108,7 @@ droplets.
 
 Please keep in mind you can skip the ```npm install```, as the node modules should already be pre-installed in the droplet but not the below configurations.
 
-To access the program in root use ```cd/node_modules/decentralized-intrernet```. The dev files should be in ```cd/addon```. You can then install the below configurations and proceed with the core component development.
+To access the program in root use ```cd/node_modules/decentralized-intrernet```. The dev files should be in ```cd/addon```. You can then install the below configurations in root, and proceed with the core component development.
 
 
 **Configurations:** \
