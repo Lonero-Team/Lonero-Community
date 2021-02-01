@@ -106,7 +106,7 @@ In regards to usage, I recommend reading our SDK's
 generic usage guide `that is here`_. The same instructions apply to
 droplets.
 
-Please keep in mind you can skip the ```npm install```, as the node modules should already be pre-installed in this droplet but not the below configurations.
+Please keep in mind you can skip the ```npm install```, as the node modules should already be pre-installed in the droplet but not the below configurations.
 
 To access the program in root use ```cd/node_modules/decentralized-intrernet```. The dev files should be in ```cd/addon```. You can then install the below configurations and proceed with the core component development.
 
