@@ -81,6 +81,7 @@ Run: ``pub get``
 --------------
 
 **For Installing on** `DigitalOcean`_ 
+---------------------------------------
 
 *Please keep in mind as of the time of writing this, our SDK is not yet live on the DigialOcean Marketplace*
 
