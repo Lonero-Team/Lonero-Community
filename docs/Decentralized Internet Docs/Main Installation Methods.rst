@@ -118,7 +118,7 @@ To access the program in root use ```cd node_modules/decentralized-internet```. 
 
 
 **Configurations:** \
-For ease of simplicity, I recommend installing the `Slap IDE`_ over VIM or GNU Nano. \
+| For ease of simplicity, I recommend installing the `Slap IDE`_ over VIM or GNU Nano. \
 ::
 
    curl -sL https://raw.githubusercontent.com/slap-editor/slap/master/install.sh | sh
