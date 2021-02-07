@@ -28,7 +28,11 @@ Features
    Drones Corporation
    
 | Install via Docker: ``docker pull gamer456148/lonero-os``
-| Pull Source w/ SourceForge: ``git clone https://git.code.sf.net/p/lonero-os/code lonero-os-code``
+| Pull Source w/ SourceForge:
+
+::
+
+   git clone https://git.code.sf.net/p/lonero-os/code lonero-os-code
 
 .. |N|Solid1| image:: https://i.imgur.com/k9NEH6E.png
    :target: https://www.starkdrones.org/home/os
