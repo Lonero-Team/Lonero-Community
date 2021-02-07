@@ -117,7 +117,7 @@ Please keep in mind you can skip the ```npm install```, as the node modules shou
 To access the program in root use ```cd node_modules/decentralized-internet```. The dev files should be in ```cd addon```. You can then install the below configurations in root, and proceed with the core component development.
 
 
-**Configurations:** \
+| **Configurations:**
 | For ease of simplicity, I recommend installing the `Slap IDE`_ over VIM or GNU Nano. \
 ::
 
