@@ -63,17 +63,8 @@ Run: ``pub get``
 
    cordova plugin add https://github.com/Lonero-Team/Decentralized-Internet.git
 
-Or
-
-::
-
-   cordova plugin searchcordova-plugin-decentralized-internet
-
-Or
-
-::
-
-   cordova plugin add cordova-plugin-decentralized-internet
+| Or ``cordova plugin searchcordova-plugin-decentralized-internet``
+| Or ``cordova plugin add cordova-plugin-decentralized-internet``
 
 --------------
 
