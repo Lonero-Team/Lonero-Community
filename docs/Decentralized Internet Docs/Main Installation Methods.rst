@@ -122,7 +122,10 @@ For ease of simplicity, I recommend installing the `Slap IDE`_ over VIM or GNU N
 ::
 
    curl -sL https://raw.githubusercontent.com/slap-editor/slap/master/install.sh | sh
-   Also keep in mind if you decide to use slap, it utilizes Node.js so make sure you have the latest version installed: 
+
+Also keep in mind if you decide to use slap, it utilizes Node.js so make sure you have the latest version installed: 
+::
+
    sudo npm install -g slap@latest
    
 You can now run the Slap commands seen `at their repo`_, for editing code files. For HaXe, I recommend you do the default PPA Ubuntu Installation:
