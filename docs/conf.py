@@ -53,6 +53,10 @@ html_logo = "Logo.svg"
 html_show_sourcelink = True
 html_static_path = ['_static']
 htmlhelp_basename = slug
+html_context = {
+    'css_files': ['_static/css/theme.css'],
+    'js_files': ['_static/js/theme.js'],
+}
 html_css_files = [
     '_static/css/theme.css',
 ]
