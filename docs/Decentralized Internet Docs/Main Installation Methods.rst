@@ -1,30 +1,32 @@
 Main Installation Methods
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-| Sketch Plugin: ``wget https://git.io/Jv2pk``
-| Use Julia: ``Pkg.add("DecentralizedInternet")``
-| Install via NPM: ``npm i decentralized-internet``
-| Install via DUB: ``dub add decentralized-internet``  
-| Install via YARN: ``yarn add decentralized-internet``
-| Install via PIP: ``pip install decentralized-internet``
-| Install via APM: ``apm install decentralized-internet``
-| Install via GEM: ``gem install decentralized-internet``
-| Install via PNPM: ``pnpm install decentralized-internet``
-| Install via CNPM: ``cnpm install decentralized-internet``
-| Install via Spack: ``./spack install decentralized-internet``
-| Ember Installation:  ``ember install decentralized-internet``
-| Raco Installation: ``raco pkg install decentralized-internet``
-| Install w/ Meteor: ``meteor add startup:decentralized-internet``
-| Install via VS Code: ``ext install Lonero.decentralized-internet``
-| Install through Leiningen/Boot: ``[decentralized-internet "0.1.0"]``
-| Install via SNAP: ``sudo snap install decentralized-internet --edge``
-| Other Meteor Method: ``meteor npm install decentralized-internet``
-| Install via Bower: ``bower install Lonero-Team/Decentralized-Internet``
-| Docker Installation: ``docker pull gamer456148/decentralized-internet``
-| Use Clojure CLI/deps.edn: ``decentralized-internet {:mvn/version "0.1.0"}``
-| Use Gradle:Compile ``'decentralized-internet:decentralized-internet:0.1.0'``
-| SourceForge: ``git clone git://git.code.sf.net/p/decentralized-internet/git``  
-| Use wget: ``sudo wget -O decentralized-internet.tar.gz "https://git.io/JvR7b"``  
+::
+
+   Sketch Plugin: wget https://git.io/Jv2pk
+   Use Julia: Pkg.add("DecentralizedInternet")
+   Install via NPM: npm i decentralized-internet
+   Install via DUB: dub add decentralized-internet
+   Install via YARN: yarn add decentralized-internet
+   Install via PIP: pip install decentralized-internet
+   Install via APM: apm install decentralized-internet
+   Install via GEM: gem install decentralized-internet
+   Install via PNPM: pnpm install decentralized-internet
+   Install via CNPM: cnpm install decentralized-internet
+   Ember Installation: ember install decentralized-internet   
+   Install via Spack: ./spack install decentralized-internet
+   Raco Installation: raco pkg install decentralized-internet
+   Install w/ Meteor: meteor add startup:decentralized-internet
+   Install via VS Code: ext install Lonero.decentralized-internet
+   Other Meteor Method: meteor npm install decentralized-internet   
+   Install through Leiningen/Boot: [decentralized-internet "0.1.0"]
+   Install via SNAP: sudo snap install decentralized-internet --edge
+   Install via Bower: bower install Lonero-Team/Decentralized-Internet
+   Docker Installation: docker pull gamer456148/decentralized-internet
+   Use Clojure CLI/deps.edn: decentralized-internet {:mvn/version "0.1.0"}
+   Use Gradle:Compile 'decentralized-internet:decentralized-internet:0.1.0'
+   SourceForge: git clone git://git.code.sf.net/p/decentralized-internet/git
+   Use wget: sudo wget -O decentralized-internet.tar.gz "https://git.io/JvR7b"
 
 --------------
 
@@ -57,14 +59,18 @@ Run: ``pub get``
 --------------
 
 | **Install via Cordova**
-| ``cordova plugin add https://github.com/Lonero-Team/Decentralized-Internet.git``
-| Or ``cordova plugin searchcordova-plugin-decentralized-internet``
-| Or ``cordova plugin add cordova-plugin-decentralized-internet``
+::
+
+   cordova plugin add https://github.com/Lonero-Team/Decentralized-Internet.git
+   Or cordova plugin searchcordova-plugin-decentralized-internet
+   Or cordova plugin add cordova-plugin-decentralized-internet
 
 --------------
 
 | **Export Components**
-| ``bit export decentralized-internet.lonero_decentralized-internet``  
+::
+
+   bit export decentralized-internet.lonero_decentralized-internet
 
 --------------
 
