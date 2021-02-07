@@ -44,7 +44,8 @@ intersphinx_mapping = {
 }
 
 html_theme = "pytorch_sphinx_theme"
-html_theme_path = ["_themes", ]
+html_theme_path = ["/docs/pytorch_sphinx_theme/", ]
+# html_theme_path = ["_themes", ]
 html_theme_options = {
     'logo_only': True,
     'navigation_depth': 5,
