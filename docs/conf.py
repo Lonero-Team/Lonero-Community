@@ -54,14 +54,14 @@ html_show_sourcelink = True
 html_static_path = ['_static']
 htmlhelp_basename = slug
 html_context = {
-    'css_files': ['_static/css/theme.css'],
-    'js_files': ['_static/js/theme.js'],
+    'css_files': ['css/theme.css'],
+    'js_files': ['js/theme.js'],
 }
 html_css_files = [
-    '_static/css/theme.css',
+    'css/theme.css',
 ]
 html_js_files = [
-    '_static/js/theme.js',
+    'js/theme.js',
 ]
 
 latex_documents = [
