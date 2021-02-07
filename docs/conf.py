@@ -51,18 +51,7 @@ html_theme_options = {
 html_theme_path = ["../.."]
 html_logo = "Logo.svg"
 html_show_sourcelink = True
-html_static_path = ['_static']
 htmlhelp_basename = slug
-html_context = {
-    'css_files': ['css/theme.css'],
-    'js_files': ['js/theme.js'],
-}
-html_css_files = [
-    'css/theme.css',
-]
-html_js_files = [
-    'js/theme.js',
-]
 
 latex_documents = [
   ('index', '{0}.tex'.format(slug), project, author, 'manual'),
