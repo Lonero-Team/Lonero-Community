@@ -1,2 +1,3 @@
 sphinx
+pytorch_sphinx_theme
 sphinxcontrib-httpdomain
