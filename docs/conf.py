@@ -2,6 +2,7 @@
 import sys
 import os
 import re
+import pytorch_sphinx_theme
 
 if not 'READTHEDOCS' in os.environ:
     sys.path.insert(0, os.path.abspath('..'))
