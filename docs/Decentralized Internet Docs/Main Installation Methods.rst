@@ -85,16 +85,16 @@ Or via name instead of repo
 | **Use this Module via Puppet**
 | Add this to your Puppetfile as a declaration:
 
-::
+.. code:: puppet
 
    mod 'gamer456148-decentralized_internet', '5.2.1'
 | Next run the command:
 | ``bolt puppetfile install``
-| Instead of the above, you can also try adding:
+| Instead of the above, you can also try:
 
 ::
 
-   mod 'gamer456148-decentralized_internet', '5.2.1'
+   puppet module install gamer456148-decentralized_internet --version 5.2.1
 | This mod line is for those who use r10k or Code Manager
 | Learn more `here`_
 
