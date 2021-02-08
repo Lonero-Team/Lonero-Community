@@ -66,7 +66,7 @@ Here you can look at the code so:
 Let us start with looking at the following configs in the
 conf.production.json file
 
-::
+.. code:: json
 
    {
        "host": "localhost",
@@ -80,11 +80,11 @@ conf.production.json file
            "clusterpost-auth": {
                "privateKey": "someRandomKey",
                "saltRounds": 10,
-               "algorithm": { 
+               "algorithm": {
                    "algorithm": "HS256"
                },
-               "algorithms": { 
-                   "algorithms": [ "HS256" ] 
+               "algorithms": {
+                   "algorithms": [ "HS256" ]
                },
 
 Here, you see the default port it should run on is 8180, you are welcome
@@ -94,7 +94,7 @@ algorithm for clusterpost's authentication.
 
 Next let us change the credentials as needed:
 
-::
+.. code:: json
 
    },
                "mailer": {
@@ -181,7 +181,7 @@ To access LNRChain, if you are still in the GridBee folder:
 Now you have just opened the app.js sample in the terminal, you should
 see:
 
-::
+.. code:: javascript
 
    // app.js
    let lotion = require('lotion')
@@ -223,7 +223,7 @@ accessing the source files:
 Let us open the MSP430G2001.ccxml file with a text editor, i.e. "right
 click":
 
-::
+.. code:: xml
 
    <?xml version="1.0" encoding="UTF-8" standalone="no"?>
    <configurations XML_version="1.2" id="configurations_0">
