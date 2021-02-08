@@ -43,12 +43,16 @@ Install Beta
 Start Daemon
 ~~~~~~~~~~~~~~
 
-``./forknoted --config-file configs/lonero.conf``
+::
+
+   ./forknoted --config-file configs/lonero.conf
 
 Start the Wallet
 ~~~~~~~~~~~~~~~~~~
 
-``./simplewallet --config-file configs/lonero.conf``
+::
+
+   ./simplewallet --config-file configs/lonero.conf
 
 Add the Software
 ~~~~~~~~~~~~~~~~~
