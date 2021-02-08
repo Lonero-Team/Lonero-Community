@@ -37,8 +37,7 @@ Main Installation Methods
 --------------
 
 | **Using Maven**
-
-::
+.. code:: java
 
    <dependency>
      <groupId>decentralized-internet</groupId>
@@ -50,10 +49,11 @@ Main Installation Methods
 
 | **Install via Dart**  
 | Add to your pubspec.yaml file:
-::
+.. code:: yaml
 
    dependencies:
      decentralized_internet: ^3.4.1
+
 Run: ``pub get``
 
 --------------
