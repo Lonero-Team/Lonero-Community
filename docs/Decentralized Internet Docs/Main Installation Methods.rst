@@ -37,7 +37,7 @@ Main Installation Methods
 --------------
 
 | **Using Maven**
-.. code:: java
+.. code:: Java
 
    <dependency>
      <groupId>decentralized-internet</groupId>
@@ -49,7 +49,7 @@ Main Installation Methods
 
 | **Install via Dart**  
 | Add to your pubspec.yaml file:
-.. code:: yaml
+.. code:: YAML
 
    dependencies:
      decentralized_internet: ^3.4.1
@@ -85,7 +85,7 @@ Or via name instead of repo
 | **Use this Module via Puppet**
 | Add this to your Puppetfile as a declaration:
 
-.. code:: puppet
+.. code:: Puppet
 
    mod 'gamer456148-decentralized_internet', '5.2.1'
 | Next run the command:
