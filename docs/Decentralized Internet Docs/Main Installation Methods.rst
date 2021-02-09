@@ -115,11 +115,8 @@ Or via name instead of repo
 **For Installing on** `DigitalOcean`_ 
 ---------------------------------------
 
-*Please keep in mind as of the time of writing this, our SDK is not yet live on the DigialOcean Marketplace*
-
 **First Step:** \
-In order to install via one click app, *(When available)*,
-click the "Create Droplet Button" via the `Marketplace`_ page.
+In order to install via one click app, click the "Create Droplet Button" via the `Marketplace`_ page.
 
 **Second Step:** \
 In regards to usage, I recommend reading our SDK's
@@ -183,8 +180,8 @@ Kamal, A. M. decentralized-internet. npm (2020). Available at: https://www.npmjs
 
 .. _chainboard--the-next-gen-wireless-dev-board:
 .. _here: https://puppet.com/docs/pe/2019.2/managing_puppet_code.html   
-.. _DigitalOcean: https://www.digitalocean.com/
-.. _Marketplace: https://marketplace.digitalocean.com/
+.. _DigitalOcean: https://marketplace.digitalocean.com/apps/decentralized-internet
+.. _Marketplace: https://marketplace.digitalocean.com/apps/decentralized-internet
 .. _that is here: https://lonero.readthedocs.io/en/latest/Decentralized%20Internet%20Docs/Critical%20Components.html
 .. _Slap IDE: https://github.com/slap-editor/slap
 .. _at their repo: https://github.com/slap-editor/slap#usage
