@@ -5,7 +5,7 @@ The Journal of Decentralized and Grid Computing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 This is a journal to publish your decentralized, parallel processing, distriubuted and grid computing papers in support of research that contributes to advancement of the field.
 
-`Paper 1`_ \| `Paper 2`_ | `Paper 3`_
+`Paper 1`_ \| `Paper 2`_ \| `Paper 3`_
  
 Journal Features
 ------------------
