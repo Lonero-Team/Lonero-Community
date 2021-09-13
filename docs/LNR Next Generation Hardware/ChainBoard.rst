@@ -5,7 +5,7 @@ ChainBoard \| The Next Gen Wireless Dev Board
 
 About
 ~~~~~
-ChainBoard is the next big thing for hardware enthusiasts, tinkerers and makers wanting to go "decentralized"
+ChainBoard is the next big thing for hardware enthusiasts, tinkerers and makers wanting to go "decentralized".
 
 |N|Solid01|
 
