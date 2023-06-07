@@ -60,7 +60,8 @@ Here you can look at the code so:
 ::
 
    $ cd clusterpost
-   $ sudo ./setUpDevelopment.sh
+   $ chmod 777 ./setUpDevelopment.sh
+   $ ./setUpDevelopment.sh   
    $ sudo nano conf.production.json
 
 Let us start with looking at the following configs in the
